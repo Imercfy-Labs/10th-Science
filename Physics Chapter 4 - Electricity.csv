@@ -1,236 +1,84 @@
-Question,Answer
-"Which of the following is correct? 
-(a) Rate of change of charge is electrical power. 
-(b) Rate of change of charge is current. 
-(c) Rate of change in energy is current. 
-(d) Rate of change of current is a charge.","(b) Rate of change of charge is current"
-"SI unit of resistance is _______. 
-(a) mho 
-(b) joule 
-(c) ohm 
-(d) ohmmeter.","(c) ohm"
-"In a simple circuit, why does the bulb glow when you close the switch? 
-(a) The switch produces electricity. 
-(b) Closing the switch completes the circuit. 
-(c) Closing the switch breaks the circuit. 
-(d) The bulb is getting charged.","(b) Closing the switch completes the circuit."
-"Kilowatt-hour is the unit of _________. 
-(a) resistivity 
-(b) conductivity 
-(c) electrical energy 
-(d) electrical power.","(c) electrical energy"
-"When a circuit is open, _______ cannot pass through it.","Current."
-"The ratio of the potential difference to the current is known as _______.","Resistance."
-"The wiring in a house consists of _______ circuits.","parallel"
-"The power of an electric device is a product of _______ and _______.","electric current, the potential difference."
-"LED stands for _______.","Light Emitting Diode."
-"Ohm's law states the relationship between power and voltage.","False. 
-Correct Statement: Ohm's law states the relationship between potential difference and current."
-"MCB is used to protect household electrical appliances.","True."
-"The SI unit for electric current is the coulomb.","False. 
-Correct Statement: The SI unit of electric current is Ampere."
-"One unit of electrical energy consumed is equal to 1000 kilowatt-hour.","False.
-Correct Statement: One unit of electrical energy consumed is equal to 1 kilowatt-hour."
-"The effective resistance of three resistors connected in series is lesser than the lowest of the individual resistances.","False. 
-Correct Statement: The effective resistance of three resistors connected in series is greater than the highest of the individual resistance."
-"What is the role of the earth wire in domestic circuits?","This wire provides a low resistance path to the electric current. The earth wire sends the current from the body of the appliance to the Earth, whenever a live wire accidentally touches the body of the metallic electric appliance. Thus, the earth wire serves as a protective conductor, which saves us from electric shocks."
-"State Ohm's law.","According to Ohm's law, at a constant temperature, the steady current 'I' flowing through a conductor is directly proportional to the potential difference 'V' between the two ends of the conductor.
-I ∝ V
-V = IR."
-"Distinguish between the resistivity and conductivity of a conductor.","Resistivity:
-1. It is the resistance of a conductor of unit length and unit area of cross-section.
-2. Its unit is ohm metre
-3. It is the measure of the resisting power of a specified material to the passage of an electric current.
+Question Type,Question,Option A,Option B,Option C,Option D,Correct Answer,Explanation
 
-Conductivity:
-1. It is the reciprocal of electrical resistivity of a material.
-2. Its unit is ohm-1 metre-1 or mho metre-1
-3. It is the measure of its ability to pass the current through it."
-"What connection is used in domestic appliances and why?","Parallel connection is used in domestic appliances. When any disconnection of one circuit in our home, does not affect the other circuit."
-"A charge of 12 coulomb flows through a bulb in 5 seconds. What is the current through the bulb?","Charge Q = 12 C, Time t = 5s. Therefore,
-Current I = Q/t = 12/5 = 2.4 A."
-"The work done in moving a charge of 10 C across two points in a circuit is 100 J. What is the potential difference between the points?","Charge Q = 10 C, Work Done W = 100 J
-Potential Difference V = W/Q = 100/10
-Therefore, V = 10 volt."
-"Calculate the resistance of a conductor through which a current of 2 A passes, when the potential difference between its ends is 30 V.","Current through the conductor I = 2 A,
-Potential Difference V = 30 V
-From Ohm's Law: R = V/I
-Therefore, R = 30/2 = 15 Ω."
-"Three resistors of resistances 5 ohms, 3 ohms and 2 ohms are connected in series with 10 V battery. Calculate their effective resistance and the current flowing through the circuit.","R1 = 5 Ω, R2 = 3 Ω, R3 = 2 Ω, V = 10 V
-RS = R1 + R2 + R3 = 5 + 3 + 2 = 10 Ω
-The current, I = V/RS = 10/10 = 1 A."
-"An electric heater of resistance 5 Ω is connected to an electric source. If a current of 6 A flows through the heater, then find the amount of heat produced in 5 minutes.","Given resistance R = 5 Ω, Current I = 6 A,
-Time t = 5 minutes = 5 × 60 s = 300 s
-Amount of heat produced, H = I²Rt = 6² × 5 × 300 = 54000 J
-Hence, H = 54000 J."
-"Two bulbs are having the ratings as 60 W, 220 V and 40 W, 220 V respectively. Which one has a greater resistance?","Electric power P = V²/R
-For the same value of V, R is inversely proportional to P.
-Therefore, the lesser the power, the greater the resistance
-Hence, the bulb with 40 W, 220 V rating has greater resistance."
-"Calculate the current and the resistance of a 100 W, 200 V electric bulb in an electric circuit.","Power P = 100 W and Voltage V = 200 V
-Power P = VI
-So, Current, I = P/V = 100/200 = 0.5 A
-Resistance, R = V/I = 200/0.5 = 400 Ω."
-"Two resistors when connected in parallel give the resultant resistance of 2 ohms, but when connected in series the effective resistance becomes 9 ohms. Calculate the value of each resistance.","Resultant resistance of parallel combination RP = 2 Ω
-Resultant resistance of series combination RS = 9 Ω
-2(R1 + R2) = R1R2 ….. (1)
-RS = R1 + R2
-⇒ 9 = R1 + R2
-⇒ R1 = 9 – R2 ….. (2)
-Substitute equation (2) in equation (1)
-2(9 – R2 + R2) = (9 – R2) R2
-⇒ 18 = 9R2 - R2²
-⇒ R2² - 9R2 + 18 = 0
-⇒ (R2 – 3) (R2 – 6) = 0
-⇒ R2 = 3, 6
-(i) If R2 = 3; R1 = 9 – R2 = 9 – 3 = 6 Ω
-(ii) If R2 = 6; R1 = 9 – R2 = 9 – 6 = 3 Ω."
-"How many electrons are passing per second in a circuit in which there is a current of 5 A?","A current of 1A consists of 6.25 × 10¹⁸ electrons
-A current of 5A consists = 5 × 6.25 × 10¹⁸ electrons = 31.25 × 10¹⁸
-Number of electrons passing per second = 31.25 × 10¹⁸ electrons"
-"A piece of wire of resistance 10 ohms is drawn out so that its length is increased to three times its original length. Calculate the new resistance.","Specific resistance (ρ) = RA/l
-R = ρl/A
-When the length is increased by three and then the area of cross-section is reduced by three,
-New resistance = 9 × 10 = 90 Ω"
-"A 100-watt electric bulb is used for 5 hours daily and four 60 watt bulbs are used for 5 hours daily. Calculate the energy consumed (in kWh) in the month of January.","Energy used by 100 W bulb is E = P × t
-= 100 × 5 = 500 Wh
-Energy used by four 60 W bulbs E = 4 × 60 × 5 = 1200 Wh
-Total energy per day = 500 + 1200 = 1700 Wh
-= 1.7 kWh
-Number of days in January = 31 days.
-Energy consumed in January = 31 × 1.7 = 52.7 kWh."
-"A torch bulb is rated at 3 V and 600 mA. Calculate its power, resistance, and energy consumed if it is used for 4 hours.","V = 3V and I = 600 mA = 600 × 10⁻³ A
-(a) Power (P) = VI
-= 3 × 600 × 10⁻³
-= 1800 × 10⁻³
-= 1.8 W (or) watt.
+MCQ,What is the SI unit of electric current?,Volt,Ampere,Ohm,Watt,Ampere,The ampere (A) is the SI unit of electric current which measures the rate of flow of electric charge.
 
-(b) Resistance (R) = V/I = 3/(600 × 10⁻³) = 5 Ω.
+MCQ,Which device is used to measure electric potential difference?,Ammeter,Voltmeter,Galvanometer,Ohmmeter,Voltmeter,A voltmeter is used to measure the potential difference (voltage) between two points in an electric circuit.
 
-(c) Power (P) = 1.8 W and
-Time = 4 hours = 4 × 60 × 60 = 14400 second
-Energy consumed E = P × t = 1.8 × 14400 = 25920 joules
-E = 25.9 KJ."
-"A piece of wire having a resistance R is cut into five equal parts. 
-(a) How will the resistance of each part of the wire change compare with the original resistance? 
-(b) If the five parts of the wire are placed in parallel, how will the resistance of the combination change? 
-(c) What will be the ratio of the effective resistance in series connection to that of the parallel connection?","(a) Consider a piece of wire having resistance R. It cut into 5 equal parts. So number of equal resistors are 5. n = 5
-When 'n' resistors of equal resistance R are connected in series, the equivalent resistance is 'nR'
-RS = nR
-⇒ RS = 5R
-⇒ R = RS/5
-⇒ R = 0.2 RS
-Each part of resistance 'R' is equal to 0.2 times of original resistance.
+MCQ,According to Ohm's law the current (I) through a conductor is:,Inversely proportional to voltage,Directly proportional to voltage,Independent of voltage,None of these,Directly proportional to voltage,Ohm's law states that current through a conductor is directly proportional to the potential difference across its ends at constant temperature.
 
-(b) Effective Resistance of 5 Resistors
-1/RP = 1/R + 1/R + 1/R + 1/R + 1/R = 5/R
-RP = R/5 = 0.2 R = 0.2 R.
+MCQ,The resistance of a conductor depends on:,Length only,Area of cross-section only,Both length and area of cross-section,Neither length nor area of cross-section,Both length and area of cross-section,The resistance of a conductor is directly proportional to its length and inversely proportional to its area of cross-section.
 
-(c) Effective resistance of series combination RS = 5R
-Effective resistance of parallel combination RP = R/5
-The ratio of series connection to the parallel connection
-RS/RP = 5R/(R/5)
-RS/RP = 5R × 5/R = 25
-RS : RP = 25 : 1."
-"The motion of electric charges through a conductor will constitute _______. 
-(a) electric current 
-(b) electric potential 
-(c) electric field 
-(d) none.","(a) electric current"
-"Electric charge is expressed in: 
-(a) Volt 
-(b) Joule 
-(c) Coulomb 
-(d) Ohm","(c) Coulomb"
-"A charge of 60 coulomb flows through a bulb in 5 minutes what is the current through the bulb? 
-(a) 2 A 
-(b) 0.2 A 
-(c) 12 A 
-(d) 0.12 A.","(b) 0.2 A
-Hint: I = q/t = 60/(5 × 60) = 1/5 = 0.2 A"
-"1 coulomb of charge is equivalent to the charge of: 
-(a) 6.25 × 10¹⁸ electrons 
-(b) 6 × 10¹⁸ protons 
-(c) 1.6 × 10⁻¹⁹ electrons 
-(d) 1.6 × 10⁻¹⁹ protons","(a) 6.25 × 10¹⁸ electrons"
-"The S.I. unit of electric potential difference is _______. 
-(a) Ampere 
-(b) Joule 
-(c) Watt 
-(d) Volt.","(d) Volt"
-"The potential difference V is proportional to the current I, the graph between V and I is a _______. 
-(a) straight line 
-(b) parabola 
-(c) ellipse 
-(d) none.","(a) straight line"
-"In an electric circuit, voltmeter reads 24V and ammeter reads 6A. The value of resistance is: 
-(a) 40Ω 
-(b) 2Ω 
-(c) 0.25Ω 
-(d) 4Ω","(d) 4Ω"
-"What is the potential difference between the ends of a resistor of 15 Ω when a current of 2 A passes through it? 
-(a) 30 V 
-(b) 7.5 V 
-(c) 3 V 
-(d) 300 V.","(a) 30 V"
-"How much heat is generated when current I is passing through a resistor for time t? 
-(a) I²Rt 
-(b) IR²t 
-(c) VI 
-(d) I²R","(a) I²Rt"
-"The unit of conductance is _______. 
-(a) ohm⁻¹ 
-(b) volt⁻¹ ampere 
-(c) both (a) and (b) 
-(d) ohm.","(c) both (a) and (b)"
-"Two electric bulbs have resistances in the ratio 1 : 2. If they are joined in series, the energy consumed in these are in the ratio: 
-(a) 1 : 2 
-(b) 2 : 1 
-(c) 4 : 1 
-(d) 1 : 1","(a) 1 : 2"
-"The resistance of a wire of length 10 cm is 2 ohm, then its conductance is _______. 
-(a) 0.5 ohm 
-(b) 5 ohm⁻¹ 
-(c) 0.5 ohm⁻¹ 
-(d) 20 ohm⁻¹.","(c) 0.5 ohm⁻¹"
-"The value of current flowing through a circuit consisting of two resistance 6Ω and 18Ω in series with a battery of 3 V is: 
-(a) 0.5 A 
-(b) 0.125 A 
-(c) 6 A 
-(d) 0.25 A","(b) 0.125 A"
-"When two 2 Ω resistors are connected in parallel, the effective resistance is _______. 
-(a) 4 Ω 
-(b) 1 Ω 
-(c) 0.5 Ω 
-(d) 5 Ω.","(b) 1 Ω"
-"When two 2 Ω resistors are connected in series, the effective resistance is _______. 
-(a) 1 Ω 
-(b) 4 Ω 
-(c) 5 Ω 
-(d) 2 Ω.","(b) 4 Ω"
-"One kilowatt-hour is: 
-(a) 3.6 × 10⁶J 
-(b) 1000 W 
-(c) 3600 W⁻¹ 
-(d) 2.778 × 10³ J","(a) 3.6 × 10⁶J"
-"_______ is used to measure the current.","Ammeter."
-"_______ is used to measure the potential difference.","Voltmeter."
-"_______ is used to indicate the direction of the current.","Galvanometer."
-"Electric current passes in the circuit from _______ terminal to the _______ terminal.","positive, negative."
-"Electrical resistivity is _______ for different materials.","different."
-"Reciprocal of resistance is _______.","conductance."
-"Reciprocal of electrical resistivity is _______.","electrical conductivity."
-"The equivalent resistance in a series combination is _______ than the highest of the individual resistances.","greater."
-"The equivalent resistance in a parallel combination is _______ than the lowest of the individual resistances.","less."
-"The heating effect of current is used in devices like _______ and _______.","electric heater, electric iron."
-"Nichrome is an alloy of _______ and _______.","Nickel, Chromium."
-"The filament is made up of a material whose _______ is very high.","melting point."
-"Electric power is the product of _______ and _______.","electric current, a potential difference."
-"The important components of main box are _______ and _______.","fuse box, meter."
-"LED is _______.","Light Emitting Diode."
-"LCD is _______.","Liquid Crystal Display."
-"An array of LEDs act as _______.","pixels."
-"A _______ is the display device used to give an output in the form of _______.","Seven Segment display, numbers or text."
-"Define the unit of electric potential?","1. The SI unit of electric potential or potential difference is volt (V).
-2. The potential difference between two points is one volt if one joule of work is done in moving one coulomb of charge from one point to another against the electric force.
-1 volt = 1 joule/1 coulomb"
+Fill in the Blanks,The resistance of a conductor is directly proportional to its ________ and inversely proportional to its area of cross-section.,,,,,,length,This relationship is given by R = ρl/A where ρ is resistivity l is length and A is area of cross-section.
+
+Fill in the Blanks,The SI unit of electrical resistivity is ________.,,,,,,ohm-meter,Resistivity (ρ) is measured in ohm-meter (Ω⋅m) in the SI system.
+
+Fill in the Blanks,In a series circuit the ________ remains constant throughout the circuit.,,,,,,current,In a series circuit the current remains the same at all points as there is only one path for current flow.
+
+True/False,In parallel combination of resistors the potential difference across each resistor is the same.,,,,,,True,In parallel circuits the voltage remains the same across all parallel branches.
+
+True/False,The equivalent resistance of resistors in series is less than the individual resistances.,,,,,,False,The equivalent resistance in series is the sum of individual resistances hence it is always greater.
+
+Matching,Match the following:,Ohm's law: V = IR,Series circuit: Same current,Parallel circuit: Same voltage,Resistivity: Material property,NA,Pair the electrical concepts with their correct characteristics.
+
+Matching,Match the electrical quantities with their SI units:,Current: Ampere,Voltage: Volt,Resistance: Ohm,Power: Watt,NA,Connect each electrical quantity with its corresponding SI unit.
+
+Assertion and Reason,Assertion: The resistance of a conductor increases with temperature. Reason: As temperature increases the atoms vibrate more vigorously increasing electron collisions.,,,,,,Both assertion and reason are true and reason explains the assertion correctly.,Temperature increase causes more atomic vibrations leading to increased electron collisions thus increasing resistance.
+
+Short Answer,Explain why copper is commonly used as a conducting material in electrical wires?,,,,,,"Copper is widely used because:
+1. Low resistivity
+2. Good ductility
+3. Relatively low cost
+4. High thermal conductivity
+5. Good mechanical strength"
+
+Short Answer,Describe the factors affecting the resistance of a conductor?,,,,,,"The resistance depends on:
+1. Length of conductor (directly proportional)
+2. Cross-sectional area (inversely proportional)
+3. Temperature (generally increases with temperature)
+4. Nature of material (resistivity)
+5. Physical conditions"
+
+Numerical Problem,"If a current of 2A flows through a conductor when a potential difference of 10V is applied calculate the resistance.",,,,,,"Solution:
+Using Ohm's law V = IR
+R = V/I = 10/2 = 5 ohms"
+
+Numerical Problem,"A wire of resistance 10Ω is cut into two equal parts. What is the resistance of each part?",,,,,,"Solution:
+Original resistance R = 10Ω
+Length is halved so R = ρl/A
+New resistance = 10/2 = 5Ω for each part"
+
+Conceptual Question,Explain the concept of electrical resistance and its relationship with current and voltage.,,,,,,"Electrical resistance is:
+1. Opposition to current flow
+2. Measured in ohms
+3. Related by Ohm's law (V=IR)
+4. Depends on material properties
+5. Affects energy conversion to heat"
+
+Conceptual Question,How does the connection of resistors in series and parallel affect the total resistance?,,,,,,"In series:
+- Resistances add up
+- Same current flows
+- Voltage divides
+
+In parallel:
+- Reciprocal of total resistance equals sum of reciprocals
+- Same voltage across each
+- Current divides"
+
+MCQ,Which of these is not a factor affecting resistance?,Mass of conductor,Length of conductor,Temperature,Area of cross-section,Mass of conductor,The mass of a conductor does not directly affect its resistance. The main factors are length area temperature and material properties.
+
+MCQ,The electric power consumed in a circuit is given by:,V/I,V×I,I/V,I²/V,V×I,Power is the product of voltage and current (P = V×I).
+
+Fill in the Blanks,The reciprocal of resistance is called ________.,,,,,,conductance,Conductance (G) measured in siemens (S) is the reciprocal of resistance (R).
+
+True/False,Electric power is measured in kilowatt-hour (kWh) for domestic electricity consumption.,,,,,,True,While the SI unit of power is watt electrical energy consumption is commonly measured in kWh for billing purposes.
+
+Short Answer,What is the significance of Kirchhoff's laws in electrical circuits?,,,,,,"Kirchhoff's laws help analyze complex circuits:
+1. Current law (KCL): Sum of currents at a junction = 0
+2. Voltage law (KVL): Sum of voltage drops in a closed loop = 0
+3. Used for solving circuit problems
+4. Based on conservation principles
+5. Essential for network analysis"
+
+Numerical Problem,"A heater draws 5A current at 220V. Calculate its power and energy consumed in 2 hours.",,,,,,"Solution:
+Power P = V×I = 220×5 = 1100W = 1.1kW
+Energy = Power × Time = 1.1×2 = 2.2 kWh"
