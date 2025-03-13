@@ -1,0 +1,86 @@
+Question Type,Question,Option A,Option B,Option C,Option D,Correct Answer,Explanation
+
+MCQ,Sound waves are:,Transverse waves,Longitudinal waves,Electromagnetic waves,Surface waves,Longitudinal waves,Sound waves are longitudinal waves where particles vibrate parallel to the direction of wave propagation.
+
+MCQ,The speed of sound in air at 20°C is approximately:,330 m/s,343 m/s,300 m/s,350 m/s,343 m/s,The speed of sound in air at 20°C is approximately 343 meters per second.
+
+MCQ,Which of these affects the speed of sound in air?,Temperature,Pressure,Humidity,All of these,All of these,The speed of sound in air is affected by temperature pressure and humidity.
+
+MCQ,The audible range of frequencies for human ear is:,0-20 Hz,20-20000 Hz,20000-50000 Hz,Above 50000 Hz,20-20000 Hz,Humans can typically hear sounds between 20 Hz and 20000 Hz.
+
+Fill in the Blanks,Sound waves cannot travel through ________.,,,,,,vacuum,Sound needs a material medium for propagation and cannot travel through vacuum.
+
+Fill in the Blanks,The number of vibrations per second is called ________.,,,,,,frequency,Frequency is defined as the number of vibrations or oscillations per second measured in Hertz (Hz).
+
+Fill in the Blanks,The distance between two consecutive compressions or rarefactions is called ________.,,,,,,wavelength,Wavelength in sound waves is the distance between two consecutive compressions or rarefactions.
+
+True/False,Sound waves can travel through solids liquids and gases.,,,,,,True,Sound waves require a medium and can propagate through all states of matter.
+
+True/False,The speed of sound is highest in gases compared to liquids and solids.,,,,,,False,The speed of sound is highest in solids followed by liquids and then gases due to particle density and elasticity.
+
+Matching,Match the following:,Echo: Reflection of sound,Resonance: Forced vibration,Doppler effect: Apparent frequency change,Sonic boom: Supersonic speed,NA,Match these sound phenomena with their characteristics.
+
+Matching,Match sound ranges with their classification:,0-20 Hz: Infrasonic,20-20000 Hz: Audible,Above 20000 Hz: Ultrasonic,NA,NA,Connect frequency ranges with their classifications.
+
+Assertion and Reason,Assertion: Sound waves travel faster on a hot day than on a cold day. Reason: The speed of sound increases with increase in temperature.,,,,,,Both assertion and reason are true and reason explains the assertion correctly.,Temperature increase leads to increased particle velocity which results in faster sound propagation.
+
+Short Answer,Explain why sound waves cannot travel through vacuum?,,,,,,"Sound cannot travel through vacuum because:
+1. Sound waves are mechanical waves
+2. They need a material medium
+3. No particles in vacuum to transmit vibrations
+4. No molecular collisions possible
+5. Energy cannot be transferred"
+
+Short Answer,What is resonance? Give two examples.,,,,,,"Resonance is:
+1. Forced vibration of same frequency
+2. Maximum amplitude achieved
+Examples:
+1. Musical instruments
+2. Breaking of glass by sound
+3. Bridge collapse due to matching frequency"
+
+Numerical Problem,"If a sound wave has frequency 500 Hz and wavelength 0.7 m calculate its speed.",,,,,,"Solution:
+Speed = Frequency × Wavelength
+= 500 × 0.7
+= 350 m/s"
+
+Numerical Problem,"A person hears an echo after 0.8 seconds. If speed of sound is 340 m/s calculate the distance of reflecting surface.",,,,,,"Solution:
+Time for sound to travel = 0.8/2 = 0.4 s (round trip)
+Distance = Speed × Time
+= 340 × 0.4
+= 136 meters"
+
+Conceptual Question,Explain how the Doppler effect works and its applications.,,,,,,"Doppler effect:
+1. Change in observed frequency
+2. Due to relative motion
+3. Applications:
+   - Radar speed guns
+   - Medical ultrasound
+   - Astronomical measurements"
+
+Conceptual Question,How does the structure of human ear help in hearing?,,,,,,"Human ear structure:
+1. Outer ear collects sound
+2. Middle ear amplifies vibrations
+3. Inner ear converts to nerve signals
+4. Different parts for different frequencies
+5. Protection mechanisms"
+
+MCQ,Which property determines the loudness of sound?,Frequency,Amplitude,Wavelength,Speed,Amplitude,The amplitude of sound waves determines their loudness or intensity.
+
+MCQ,The phenomenon of persistence of sound is called:,Echo,Reverberation,Resonance,Reflection,Reverberation,Reverberation is the persistence of sound due to multiple reflections.
+
+Fill in the Blanks,The unit of loudness is ________.,,,,,,decibel,Loudness of sound is measured in decibels (dB).
+
+True/False,Ultrasound waves have frequencies lower than audible sound.,,,,,,False,Ultrasound waves have frequencies higher than 20000 Hz which is above the audible range.
+
+Short Answer,What are the applications of ultrasound?,,,,,,"Applications of ultrasound:
+1. Medical imaging
+2. Industrial cleaning
+3. Echolocation
+4. Quality testing
+5. Distance measurement"
+
+Numerical Problem,"A bat emits ultrasonic waves of frequency 50000 Hz. If the speed of sound in air is 340 m/s calculate the wavelength.",,,,,,"Solution:
+Wavelength = Speed/Frequency
+= 340/50000
+= 0.0068 meters"
