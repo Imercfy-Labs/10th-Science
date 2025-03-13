@@ -1,0 +1,84 @@
+Question Type,Question,Option A,Option B,Option C,Option D,Correct Answer,Explanation
+
+MCQ,Light is a form of:,Sound wave,Water wave,Electromagnetic wave,Mechanical wave,Electromagnetic wave,Light is an electromagnetic wave that can travel through vacuum and doesn't need a medium.
+
+MCQ,The speed of light in vacuum is:,3×10⁸ m/s,2×10⁸ m/s,1×10⁸ m/s,4×10⁸ m/s,3×10⁸ m/s,The speed of light in vacuum is exactly 3×10⁸ meters per second.
+
+MCQ,When light travels from air to glass it:,Speeds up,Slows down,Maintains same speed,Stops completely,Slows down,Light slows down when entering a denser medium like glass from air.
+
+MCQ,The phenomenon of splitting of white light into its components is called:,Reflection,Refraction,Dispersion,Diffraction,Dispersion,Dispersion is the splitting of white light into its component colors due to different refractive indices.
+
+Fill in the Blanks,The angle between incident ray and normal is called angle of ________.,,,,,,incidence,The angle between the incident ray and the normal at point of incidence is called angle of incidence.
+
+Fill in the Blanks,The ratio of speed of light in vacuum to that in medium is called ________.,,,,,,refractive index,Refractive index is defined as the ratio of speed of light in vacuum to its speed in the medium.
+
+Fill in the Blanks,A ________ lens always forms a virtual diminished image.,,,,,,concave,A concave lens always forms a virtual diminished image regardless of object position.
+
+True/False,The image formed by a plane mirror is virtual and erect.,,,,,,True,Plane mirrors form virtual erect images that are same size as the object.
+
+True/False,The refractive index of a medium is always less than 1.,,,,,,False,Refractive index is always greater than 1 as light cannot travel faster than its speed in vacuum.
+
+Matching,Match the following:,Convex lens: Converging,Concave lens: Diverging,Plane mirror: Lateral inversion,Prism: Dispersion,NA,Match these optical devices with their characteristics.
+
+Matching,Match colors with their wavelengths:,Violet: Shortest visible,Red: Longest visible,Green: Middle range,NA,NA,Connect colors of visible spectrum with their wavelength characteristics.
+
+Assertion and Reason,Assertion: A rainbow is formed when sunlight is dispersed by water droplets. Reason: Different colors of light are refracted at different angles due to different refractive indices.,,,,,,Both assertion and reason are true and reason explains the assertion correctly.,Different wavelengths of light have different refractive indices causing dispersion in water droplets.
+
+Short Answer,Explain the laws of reflection.,,,,,,"Laws of reflection:
+1. Angle of incidence equals angle of reflection
+2. Incident ray reflected ray and normal lie in same plane
+3. These laws are valid for all reflecting surfaces
+4. Apply to both regular and diffused reflection
+5. Independent of nature of reflecting surface"
+
+Short Answer,What is total internal reflection? Give its applications.,,,,,,"Total internal reflection:
+1. Occurs at critical angle
+2. Light travels from denser to rarer medium
+Applications:
+1. Optical fibers
+2. Mirage formation
+3. Diamond brilliance"
+
+Numerical Problem,"If the refractive index of glass is 1.5 calculate the speed of light in glass.",,,,,,"Solution:
+Refractive index = Speed in vacuum/Speed in medium
+1.5 = 3×10⁸/v
+v = 2×10⁸ m/s"
+
+Numerical Problem,"An object is placed 20 cm from a convex lens of focal length 10 cm. Calculate the image distance.",,,,,,"Solution:
+Using lens formula 1/f = 1/u + 1/v
+1/10 = 1/-20 + 1/v
+v = 20 cm"
+
+Conceptual Question,Explain how a rainbow is formed in the sky.,,,,,,"Rainbow formation:
+1. Sunlight enters water droplets
+2. Undergoes refraction
+3. Total internal reflection
+4. Dispersion of colors
+5. Different angles for different colors"
+
+Conceptual Question,How does a convex lens form different types of images for different object positions?,,,,,,"Image formation depends on object position:
+1. Beyond 2F: Real inverted diminished
+2. At 2F: Real inverted same size
+3. Between F and 2F: Real inverted enlarged
+4. At F: Image at infinity
+5. Within F: Virtual erect enlarged"
+
+MCQ,Which type of mirror is used in solar cookers?,Plane mirror,Concave mirror,Convex mirror,None of these,Concave mirror,Concave mirrors focus parallel rays to a point making them useful in solar cookers.
+
+MCQ,The image formed by a convex mirror is always:,Real and erect,Virtual and erect,Real and inverted,Virtual and inverted,Virtual and erect,Convex mirrors always form virtual erect diminished images.
+
+Fill in the Blanks,The distance between optical center and focus is called ________.,,,,,,focal length,Focal length is the distance between the optical center and the focus of a lens or mirror.
+
+True/False,Blue light bends more than red light when passing through a prism.,,,,,,True,Blue light has a shorter wavelength and bends more than red light during refraction.
+
+Short Answer,What are the differences between real and virtual images?,,,,,,"Differences:
+1. Real images can be formed on screen
+2. Virtual images cannot be formed on screen
+3. Real images are inverted
+4. Virtual images are erect
+5. Real images form when rays actually meet"
+
+Numerical Problem,"Find the critical angle for a medium of refractive index 1.5.",,,,,,"Solution:
+sin(c) = 1/n
+sin(c) = 1/1.5
+c = 41.8 degrees"
