@@ -1,0 +1,231 @@
+Question,Answer
+"When a sound wave travels through air, the air particles: 
+(a) vibrate along the direction of the wave motion. 
+(b) vibrate but not in any fixed direction. 
+(c) vibrate perpendicular to the direction of the wave motion. 
+(d) do not vibrate.","(a) vibrate along the direction of the wave motion."
+"The velocity of sound in a gaseous medium is 330 ms⁻¹. If the pressure is increased by 4 times without causing a change in the temperature, the velocity of sound in the gas is _______. 
+(a) 330 ms⁻¹ 
+(b) 660 ms⁻¹ 
+(c) 156 ms⁻¹ 
+(d) 990 ms⁻¹.","(a) 330 ms⁻¹
+Hint: Pressure has no effect on the velocity of sound in the gas. So velocity of sound remains unchanged."
+"The frequency, which is audible to the human ear is: 
+(a) 50 kHz 
+(b) 20 kHz 
+(c) 15000 kHz 
+(d) 10000 kHz","(b) 20 kHz"
+"The velocity of sound in air at a particular temperature is 330 ms⁻¹. What will be its value when the temperature is doubled and the pressure is halved? 
+(a) 330 ms⁻¹ 
+(b) 165 ms⁻¹ 
+(c) 330 × √2 ms⁻¹ 
+(d) 320/√2 ms⁻¹.","(c) 330 × √2 ms⁻¹
+Hint: As there is no effect of change in pressure on the velocity of sound in air, and v ∝ √T therefore, when the temperature is doubled, so the velocity becomes 330√2 m/s."
+"If a sound wave travels with a frequency of 1.25 × 10⁴ Hz at 344 ms⁻¹, the wavelength will be: 
+(a) 27.52 m 
+(b) 275.2 m 
+(c) 0.02752 m 
+(d) 2.752 m","(c) 0.02752 m"
+"The sound waves are reflected from an obstacle into the same medium from which they were incident. Which of the following changes? 
+(a) speed 
+(b) frequency 
+(c) wavelength 
+(d) none of these","(d) none of these"
+"The velocity of sound in the atmosphere of a planet is 500 ms⁻¹. The minimum distance between the sources of sound and the obstacle to hearing the echo should be _______. 
+(a) 17 m 
+(b) 20 m 
+(c) 25 m 
+(d) 50 m.","(c) 25 m
+Hint: The minimum distance of the source of the sound and hear the echo,
+d = vt/2
+t = 0.1 s, d = 500 × 0.1/2 = 25 m."
+"Rapid back and forth motion of a particle about its mean position is called _______.","Wave"
+"If the energy in a longitudinal wave travels from south to north, the particles of the medium would be vibrating in _______.","South to north"
+"A whistle giving out a sound of frequency 450 Hz, approaches a stationary observer at a speed of 33 ms⁻¹. The frequency heard by the observer is (speed of sound = 330 ms⁻¹) _______.","500 Hz"
+"A source of sound is travelling with a velocity 40 km/h towards an observer and emits a sound of frequency 2000 Hz. If the velocity of sound is 1220 km/h, then the apparent frequency heard by the observer is _______.","2067.3 Hz"
+"Sound can travel through solids, gases, liquids and even vacuum.","False – Sound cannot travel through vacuum."
+"Waves created by Earthquake are Infrasonic.","True"
+"The velocity of sound is independent of temperature.","False – The velocity of sound depends on temperature."
+"The Velocity of sound is high in gases than liquids.","False – The velocity of sound is lower in gases than in liquids."
+"The change in air pressure affects the speed of sound.","False"
+"Sound travels faster in solids than in gases.","True"
+"What is a longitudinal wave?","In longitudinal wave, the particles of the medium vibrate along the direction of the wave."
+"What is the audible range of frequency?","Audible waves: These are sound waves with a frequency ranging between 20 Hz and 20,000 Hz."
+"What is the minimum distance needed for an echo?","The minimum distance needed for an echo is 17.2 metre."
+"What will be the frequency sound having 0.20 m as its wavelength when it travels with a speed of 331 ms⁻¹?","Frequency of sound = velocity of sound/wavelength of sound
+n = v/λ = 331/0.20
+n = 1655 Hz."
+"Name three animals, which can hear ultrasonic vibrations.","The animals are dogs, bats and dolphins."
+"Why does sound travel faster on a rainy day than on a dry day?","When humidity increases, the speed of sound increases. Hence, sound travels faster on a rainy day than a dry day."
+"Why does an empty vessel produce more sound than a filled one?","The intensity of sound is directly proportional to the square of the amplitude of vibration. I ∝ A² since, the amplitude of vibration of air molecules (empty vessel) is greater than liquid molecules (filled vessel), therefore empty vessel produces a louder sound than the filled vessel."
+"State the differences between sound and light.","1. Sound waves are longitudinal waves, while light waves are transverse waves.
+2. Sound waves require a material medium for propagation, while light waves can travel through vacuum.
+3. The velocity of sound in air is about 340 m/s, while the velocity of light is 3 × 10⁸ m/s.
+4. Sound waves cannot be polarized, while light waves can be polarized.
+5. Sound waves do not show interference and diffraction easily, while light waves show interference and diffraction phenomena easily."
+"What is meant by particle velocity?","The velocity with which the particles of the medium vibrate in order to transfer the energy in the form of a wave is called particle velocity."
+"What do you know about wave velocity?","The velocity with which the wave travels through the medium is called wave velocity. In other words, the distance travelled by a sound wave in unit time is called the velocity of a sound wave.
+∴ velocity = Distance/Time taken"
+"Define wave velocity.","Wave velocity is defined as the distance travelled per second by a sound wave. Since,
+Frequency (n) = 1/T, V = λ/T can be written as V = nλ."
+"What is the effect of density of a gas on the velocity of sound?","The velocity of sound in a gas is inversely proportional to the square root of the density of the gas. Hence, the velocity decreases as the density of the gas increases.
+V ∝ √(1/d)"
+"What is the effect of temperature of a gas on the velocity of sound?","The velocity of sound in a gas is directly proportional to the square root of its temperature. The velocity of sound in a gas increases with the increase in temperature.
+V ∝ √T. Velocity at temperature T is given by the following equation:
+VT = (V₀ + 0.61T) ms²"
+"What are the factors affect the speed of sound in gases?","* Effect of density
+* Effect of temperature
+* Effect of humidity"
+"What do you know about reflection of sound from a plane surface?","When sound waves are reflected from a plane surface, the reflected waves travel in a direction, according to the law of reflection. The intensity of the reflected wave is neither decreased nor increased."
+"Write a note on whispering gallery.","One of the famous whispering galleries is in St. Paul's cathedral church in London. It is built with elliptically shaped walls. When a person is talking at one focus, his voice can be heard distinctly at the other focus. It is due to the multiple reflections of sound waves from the curved walls."
+"How is echo of sound produced?","An echo is the sound reproduced due to the reflection of the original sound from various rigid surfaces such as walls, ceilings, surfaces of mountains, etc…"
+"Write short notes about mega phone.","A megaphone is a horn-shaped device used to address a small gathering of people. Its one end is wide and the other end is narrow. When a person speaks at the narrow end, the sound of his speech is concentrated by the multiple reflections from the walls of the tube. Thus, his voice can be heard loudly over a long distance."
+"If the frequency of waves lies between 20 Hz and 20 KHz then, they are: 
+(a) infrasonic waves 
+(b) ultrasonic waves 
+(c) audible waves 
+(d) transverse waves","(c) audible waves"
+"The frequency of an infrasonic wave is: 
+(a) 20 Hz 
+(b) below 20 Hz 
+(c) above 20 Hz 
+(d) above 20 KHz","(b) below 20 Hz"
+"The sound waves having frequency greater than 20 KHz are known as: 
+(a) audible waves 
+(b) ultrasonic waves 
+(c) infrasonic waves 
+(d) mechanical waves","(b) ultrasonic waves"
+"Which of the following waves cannot be detected by human ear? 
+(a) audible wave 
+(b) infrasonic wave 
+(c) ultrasonic wave 
+(d) mechanical wave","(c) ultrasonic wave"
+"Which waves are generated by stretched strings? 
+(a) audible waves 
+(b) sound waves 
+(c) ultrasonic waves 
+(d) infrasonic waves","(a) audible waves"
+"The waves produced during earthquake, ocean waves are known as: 
+(a) audible waves 
+(b) infrasonic waves 
+(c) ultrasonic waves 
+(d) mechanical waves","(b) infrasonic waves"
+"Sound wave belong to: 
+(a) mechanical waves 
+(b) electromagnetic waves 
+(c) transverse waves 
+(d) waves","(a) mechanical waves"
+"The waves produced by bats are called: 
+(a) infrasonic waves 
+(b) ultrasonic waves 
+(c) electromagnetic waves 
+(d) mechanical waves","(b) ultrasonic waves"
+"At N.T.P speed of sound waves in air is about: 
+(a) 3 x 10⁸ m/s 
+(b) 3 x 10⁻⁸ m/s 
+(c) 340 cm/s 
+(d) 340 m/s","(d) 340 m/s"
+"Sound waves are: 
+(a) mechanical waves 
+(b) longitudinal waves 
+(c) transverse waves 
+(d) waves","(b) longitudinal waves"
+"The velocity of sound is least in ………. medium. 
+(a) solid 
+(b) liquid 
+(c) gaseous 
+(d) water","(c) gaseous"
+"Velocity of sound ……… as the density of the solid increases. 
+(a) increases 
+(b) decreases 
+(c) changes 
+(d) none of the above","(b) decreases"
+"Velocity of sound at a temperature T is given by: 
+(a) VT = (V₀ + 0.61 T) 
+(b) VT = V₀/273 
+(c) VT = (V₀ – 0.61 T) 
+(d) VT = V₀(0.61T)","(a) VT = (V₀ + 0.61 T)"
+"In the case of reflection of sound waves angle of incidence is: 
+(a) less than angle of incidence 
+(b) equal to angle of incidence 
+(c) greater than angle of incidence 
+(d) greater than angle of refraction.","(b) equal to angle of incidence"
+"The direction of compression is reversed during: 
+(a) refraction 
+(b) reflection at the boundary of a denser medium 
+(c) reflection at the boundary of a rarer medium 
+(d) reflection at the boundary of a curved surface","(b) reflection at the boundary of a denser medium"
+"Which of the following property of sound waves is used in ultrasonography? 
+(a) Reflection of sound 
+(b) Refraction of sound 
+(c) Echo sound 
+(d) Doppler effect sound","(c) Echo sound"
+"A wave of length 0.60 cm is produced in air and travels with a velocity of 340 ms⁻¹. Will it be audible to the human ear?","Wavelength, λ = 0.6 × 10⁻² m
+Velocity of sound, v = 340 ms⁻¹
+Frequency, n = v/λ
+⇒ n = 340/(0.6 × 10⁻²)
+⇒ n = 566.66 × 10²
+⇒ n = 567 × 10² Hz.
+Since this frequency is 56,700 Hz, which is greater than 20,000 Hz, it will not be audible to the human ear."
+"Audible frequencies have a range of 20 Hz to 20,000 Hz. Express it in terms of wavelength in air.","Let the velocity of sound in air be 340 m/s
+Initial frequency v₁ = 20 Hz
+Initial wavelength λ₁ = v/v₁
+= 340/20 = 17 m
+Final frequency v₂ = 20 × 10³ Hz
+Final wavelength λ₂ = 340/(20×10³)
+= 17 × 10⁻³ = 0.017 m
+The range of wavelength is from 17 m to 0.017 m"
+"Write down the applications of echo?","Applications of echo:
+* Some animals communicate with each other over long distances and also locate objects by sending the sound signals and receiving the echo as reflected from the targets.
+* The principle of echo is used in obstetric ultrasonography, which is used to create real-time visual images of the developing embryo or fetus in the mother's uterus. This is a safe testing tool, as it does not use any harmful radiations.
+* Echo is used to determine the velocity of sound waves in any medium."
+"Classify sound waves based on their frequencies.","(i) Audible waves: These are sound waves with a frequency ranging between 20 Hz and 20,000 Hz. These are generated by vibrating bodies such as vocal cords, stretched strings etc.
+
+(ii) Infrasonic waves: These are sound waves with a frequency below 20 Hz that cannot be heard by the human ear. eg: waves produced during earth quake, ocean waves, sound produced by whales, etc.
+
+(iii) Ultrasonic waves: These are sound waves with a frequency greater than 20 kHz, Human ear cannot detect these waves, but certain creatures like mosquito, dogs, bats, dolphins can detect these waves, eg: waves produced by bats."
+"Write down the concept of Ear trumpet and Megaphone.","Ear trumpet:
+* Ear trumpet is a hearing aid, which is useful by people who have difficulty in hearing.
+* In this device, one end is wide and the other end is narrow. The sound from the sources fall into the wide end and are reflected by its walls into the narrow part of the device. This helps in concentrating the sound and the sound enters the eardrum with more intensity. This enables a person to hear the sound better.
+
+Megaphone:
+* A megaphone is a horn-shaped device used to address a small gathering of people.
+* It's one end is wide and the other end is narrow. When a person speaks at the narrow end, the sound of his speech is concentrated by the multiple reflections from the walls of the tube. Thus, his voice can be heard loudly over a long distance."
+"A sound wave has a frequency of 200 Hz and a speed of 400 ms⁻¹ in a medium. Find the wavelength of the sound wave.","Speed of sound wave v = 400 m/s
+Frequency of sound wave n = 200 Hz
+∴ Wavelength sound wave λ = v/n
+= 400/200 = 2 m
+∴ Wavelength = 2 m"
+"The thunder of the cloud is heard 9.8 seconds later than the flash of lightning. If the speed of sound in air is 330 ms⁻¹, what will be the height of the cloud?","The height of the cloud (distance) = speed of sound × time
+d = v × t = 330 × 9.8 = 3234 m
+The height of the cloud is 3234 m."
+"A person who is sitting at a distance of 400 m from a source of sound is listening to a sound of 600 Hz. Find the time period between successive compressions from the source?","Distance of the observer = 400 m
+Frequency of sound n = 600 Hz
+Let velocity of sound be v = 330 m/s
+Wavelength λ = v/n = 330/600
+= 55 × 10⁻² = 0.55 m
+Distance between two successive compressions is λ/2
+Time period successive compressions is = 1/(λ/2)
+= 2/λ = 2/0.55
+T = 2/0.55 = 3.6363 second
+Time period = 3.6363 second."
+"An ultrasonic wave is sent from a ship towards the bottom of the sea. It is found that the time interval between the transmission and reception of the wave is 1.6 seconds. What is the depth of the sea, if the velocity of sound in the seawater is 1400 ms⁻¹?","Time interval t = 1.6 s
+Velocity of sound in water = 1400 m/s.
+Depth of the sea = v×t/2
+= 1400×1.6/2
+= 1120 m
+Depth of the sea = 1120 m"
+"Air temperature in the Rajasthan desert can reach 46°C. What is the velocity of sound in air at that temperature? (V₀ = 331 ms⁻¹)","Velocity of sound at 0°C is V₀ = 331 ms⁻¹
+Let the sound at 46°C is be vt
+vt/v₀ = √((273+T)/273)
+where temperature is T = 46°C
+= √((273+46)/273)
+= √(319/273)
+= √1.168
+= 1.080
+vt = 331 × 1.080 = 357.48 m/s.
+∴ Velocity of sound in air at that temperature = 357.48 m/s."
+"Explain why the ceilings of concert halls are curved.","1. These are basically curved surfaces (concave), which are used in auditoria and halls to improve the quality of sound. This board is placed such that the speaker is at the focus of the concave surface.
+2. The sound of the speaker is reflected towards the audience thus improving the quality of sound heard by the audience."
+"Mention two cases in which there is no Doppler effect in sound?","1. When source (S) and listener (L) both are at rest.
+2. When S and L move in such a way that distance between them remains constant."
