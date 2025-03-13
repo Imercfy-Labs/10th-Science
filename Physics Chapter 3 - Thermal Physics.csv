@@ -1,0 +1,226 @@
+Question,Answer
+"The value of universal gas constant _______. 
+(a) 3.81 mol-1 KJ-1 
+(b) 8.03 J mol-1 K-1 
+(c) 1.38 mol-1 KJ-1 
+(d) 8.31 J mol-1 K-1.","(d) 8.31 J mol-1 K-1.
+Hint: Universal gas constant has a fixed value of 8.31 J mol-1 K-1."
+"If a substance is heated or cooled, the change in mass of that substance is _______. 
+(a) positive 
+(b) negative 
+(c) zero 
+(d) none of the above.","(c) zero
+Hint: Mass is always conserved during any change as the transmission of heat either cooling or heating."
+"If a substance is heated or cooled, the linear expansion occurs along the axis of: 
+(a) X or -X 
+(b) Y or -Y 
+(c) both (a) and (b) 
+(d) (a) or (b)","(a) X or -X"
+"Temperature is the average _______ of the molecules of a substance? 
+(a) the difference in K.E and P.E. 
+(b) the sum of P.E and K.E. 
+(c) the difference in T.E and P.E. 
+(d) the difference in K.E and T.E.","(c) the difference in T.E and P.E.
+Hint: As total energy of a substance is equal to the sum of the K.E, and P.E of atoms (or) molecules
+Temperature is equal to the average KE of molecules
+K.E = T.E – P.E."
+"In the Given diagram, the possible direction of heat energy transformation is _______. 
+(a) A ← B, A ← C, B ← C 
+(b) A → B, A → C, B → C 
+(c) A → B, A ← C, B → C 
+(d) A ← B, A → C, B ← C.","(a) A ← B, A ← C, B ← C
+Hint: Heat energy flows from a system of higher to lower temperature.
+So the heat will flow towards lowest temperature A. i.e., B → A & C → A as the temperature of C is more than B.
+The heat will flow C → B."
+"The value of Avogadro number _______. ","6.023 × 10^23 / mol."
+"The temperature and heat are _______ quantities.","Scalar."
+"One calorie is the amount of heat energy required to raise the temperature of _______ of water through _____.","1 gram, 1°C."
+"According to Boyle's law, the shape of the graph between pressure and reciprocal of the volume is ________.","Straight line."
+"For a given heat in liquid, the apparent expansion is more than that of real expansion.","False.
+Correct Statement: When the liquid is heated in a container, first heat is gained by container which expands and level of liquid goes down, but immediately liquid receives the heat from container so apparent expansion is liquid.
+Real expansion = Expansion of container + Apparent expansion"
+"Thermal energy always flows from a system at a higher temperature to a system at a lower temperature.","True."
+"Assertion: As the temperature of a gas increases the K.E of molecules increases, but P.E. decreases. 
+Reason: Due to the law of conservation of energy.","(a) Both assertion and reason are true and reason is the correct explanation of assertion."
+"Assertion: Real expansion in liquids is always larger than apparent expansion. 
+Reason: Vessel of liquid expands 1st then the expansion of liquid in the vessel.","(a) Both assertion and reason are true and reason is the correct explanation of assertion."
+"Assertion: There are no effects on other ends when one end of the rod is only heated. 
+Reason: Heat always flows from a region of higher temperature to lower the temperature of the rod.","(d) An assertion is false but the reason is true.
+Explanation: There are small effects forms on another end when one end of the rod is only heated."
+"What do you mean by triple point of water? Why it is unique?","It is the temperature at which the three phases of water and gas of water are equally stable."
+"State the commonly used units of Temperature.","The commonly used units of temperature are Kelvin, degree Celsius (°C) and degree Fahrenheit (°F)."
+"Can the temperature of a body be negative on the kelvin scale?","The temperature of a body can never be negative on kelvin. Because the lowest temperature on the Kelvin scale is 0 kelvin."
+"Do all solids expand on heating? If not give an example.","All solid bodies do not expand on heating, semiconductor and camphor contracts on heating."
+"When are two physical bodies said to be in thermal equilibrium?","Two or more physical systems or bodies are said to be in thermal equilibrium if there is no net flow of thermal energy between the systems."
+"Why does the solid expand on heating?","When heat energy is supplied to a substance the E of molecule or atoms increases so the average distance between then increases. So the volume of matter (solid, liquid, gas) increases."
+"Why does a small gap is left between the iron rails on a railway track?","Either due to temperature variation in summer and winter or due to frictional force between the wheel of train and rail, when the temperature increases the length of rail will increase and may bend in summer and the train may get derailed."
+"What is meant by Thermal energy?","Thermal energy is a form of energy which is transferred between any two bodies due to the difference in their temperatures. Thermal energy is also known as 'heat energy' or simply 'heat'."
+"Cooking gas containers are kept in lorry moving with uniform speed what will be the effect on the temperature of gas molecules?","If the lorry is moving with uniform speed the speed of cooking gas molecules will also be uniform and the collisions will be least or loss of K.E will be least in turn increase in temperature will be less. If the lorry is not moving with uniform the cylinders and molecules collide more and more and their temperature may increase and can cause the fire in gas."
+"Define one Kilocalorie.","One kilocalorie is defined as the amount of heat energy required to rise the temperature of 1 kilogram of water through 1°C."
+"At what temperature does all molecular motion cease? Explain.","If molecular motion ceases then KE become zero and absolute scale of temperature is directly proportional to KE
+T ∝ KE
+µ KE = 0, T = 0 K
+So at 0 – kelvin temperature motion of all molecules ceases."
+"Mention different types of expansion.","1. Linear expansion
+2. Superficial expansion
+3. Cubical expansion"
+"Differentiate between conduction, convection and radiation.","Conduction:
+1. Material medium is required.
+2. It is due to the temperature difference.
+3. Heat flows from higher to lower temperature.
+4. It heats up the medium.
+5. It is a slow process.
+6. It does not obey the laws of refraction and reflection.
+
+Convection:
+1. Material medium is required.
+2. It is due to density difference.
+3. Heat flows from lower to higher density.
+4. It also heats up the medium.
+5. It is also a slow process.
+6. It also does not obey the laws of refraction and reflection.
+
+Radiation:
+1. Material medium is required.
+2. It occurs from all bodies above 0 K.
+3. Heat flows from higher to lower temperature.
+4. It does not heat up the medium.
+5. It propagates with speed of light.
+6. It obeys the law of refraction and reflection."
+"Define co-efficient of linear expansion. State its unit.","The ratio of increase in length of the body per degree rise in temperature to its unit length is called as the coefficient of linear expansion. The SI unit of Coefficient of Linear expansion is K-1."
+"At constant temperature, the volume of a given mass of gas is inversely proportional to its pressure is _______. 
+(a) Charle's law 
+(b) Boyle's law 
+(c) Avogadro's law 
+(d) None of these.","(b) Boyle's law
+Hint: At constant temperature, only Boyle's law is there."
+"The value of equivalent to 0°C on the absolute scale is: 
+(a) – 273 K 
+(b) OK 
+(c) 273 K 
+(d) 373 K","(c) 273 K"
+"At constant pressure, the volume of a given mass of gas is proportional to _______. 
+(a) temperature 
+(b) atmospheric pressure 
+(c) absolute temperature 
+(d) none of these.","(a) temperature
+Hint: Charle's law gives the relation between V & T at constant pressure."
+"The value of absolute zero temperature is: 
+(a) 273° C 
+(b) 100° C 
+(c) 0° C 
+(d) -273° K","(d) -273° K"
+"The ratio of change in dimension to the original dimension per degree kelvin change in temperature is _______. 
+(a) coefficient of linear expansion 
+(b) coefficient of cubical expansion 
+(c) coefficient of thermal expansion 
+(d) coefficient of areal expansion.","(c) coefficient of thermal expansion
+Hint: Coefficient of linear expansion
+= Change in dimension / (Original dimension × ΔT)."
+"The relation between Fahrenheit and Kelvin scales of temperature is: 
+(a) K = F × 5/9 
+(b) K = F – C 
+(c) K = (F + 460) × 9/5 
+(d) K = (F + 460) × 5/9","(d) K = (F + 460) × 5/9"
+"Increase in area per unit area at 0°C per degree rise in temperature is _______. 
+(a) coefficient of linear expansion. 
+(b) coefficient of superficial expansion. 
+(c) coefficient of cubical expansion. 
+(d) none of these.","(b) coefficient of superficial expansion.
+Hint: As the superficial expansion is directly proportional to the original area of sheet and rise in temperature."
+"Coefficient of linear expansion depends upon _______. 
+(a) pressure 
+(b) volume 
+(c) nature of material 
+(d) none of these.","(c) nature of material
+Hint: α of a material depend on nature of material of rod."
+"If the temperature is the effect then ……… is the cause. 
+(a) Energy 
+(b) Work 
+(c) Heat 
+(d) Mass","(c) Heat"
+"For the measurement heat in the body following one of these is used _______. 
+(a) thermometer 
+(b) calorimeter 
+(c) pressure gauge 
+(d) multimeter.","(b) calorimeter
+Hint: Heat of a body can be measured with the help of calorimeter."
+"Transfer of heat from the hot end to cold end with out-migration of a molecule of solid is called _______. 
+(a) convection 
+(b) conduction 
+(c) Radiation 
+(d) none of these.","(b) conduction
+Hint: Heat flows from without migration of particle is conduction."
+"Amount of heat required to convert 10 g of ice at 0°C, into water at same temperature is: 
+(a) 3000 J 
+(b) 336 J 
+(c) 300 J 
+(d) 3360 J","(b) 336 J"
+"Process of transfer of heat in the form of electromagnetic wave (light) for which material medium not necessary is _______. 
+(a) conduction 
+(b) radiation 
+(c) convection 
+(d) none of these.","(b) radiation
+Hint: Heat can flow even in a vacuum (without medium) by radiation of electromagnetic wave."
+"When ice melts its volume: 
+(a) Increases 
+(b) Changes 
+(c) Decreases 
+(d) Remains same","(c) Decreases"
+"When 1 kg of water at 100°C is mixed with 1 kg of water at 65°C, the temperature of the mixture is: 
+(a) Less than 100°C 
+(b) Less 100°C 
+(c) Equal to 100°C 
+(d) Less than 100°C but more than 65°C","(d) Less than 100°C but more than 65°C"
+"_______ is the amount of heat required to raise the temperature of _____ water through 1 kelvin.","one kilocalorie, one kg."
+"A thermometer is used to measure _______.","Temperature."
+"In _______ scale of temperature no negative value of temperature.","Kelvin."
+"_______ is the substance whose physical property is utilised for measuring temperature.","Thermometric substance."
+"_______ is that temperature attained by two bodies when they are brought in thermal contact with each other are in thermal equilibrium, is attained.","Equilibrium Temperature."
+"The lowest temperature attainable according to Charle's law is _______.","−273°C."
+"The P.E. of molecules in ideal gas to _______.","Zero."
+"The nature of graph of P versus (1/V) for the given mass of gas at constant temperature is _______.","Straight line."
+"As K.E. of the gas increases then the _______ increases.","Temperature."
+"As pressure on a gas increases the P.E. between molecules of gas _______.","decreases."
+"The relation between N (no. of molecules), P, V & T is _______.","N=KB T/PV."
+"H2 gas can behave like an ideal gas at _______ pressure and _______ temperature.","low, high."
+"According to Avogadro's law, equal volumes of all gases under same pressure have equal numbers of molecules.","True."
+"Boltzmann's constant k is equal to the product of universal gas constant R and Avogadro number (NA)?","False.
+Correct Statement: KB=R/NA"
+"Number of molecules N in gas is equal to the product of the number of mole (n) of gas and Avogadro's number (NA)?","True."
+"A gas which obeys the relation PV = nRT at all temperature and pressure is called real gas.","True."
+"If Q calorie heat is produced by spending mechanical work W then the mechanical equivalent of heat J = W × Q?","False.
+Correct Statement: J=W/Q."
+"The S.I. unit of coefficient of thermal expansion is per kelvin.","True."
+"The real expansion of a liquid is equal to the difference between apparent expansion and expansion of the vessel.","False.
+Correct Statement: Real expansion = Apparent expansion + expansion of vessel."
+"1. Heat (a) Joule
+2. Thermometer (b) Heating
+3. The SI unit of heat (c) Temperature
+4. Cool a cup of coffee, adding cold milk (d) Energy
+5. gain by heat by a body (e) thermal equilibrium","1. (d) Energy
+2. (c) Temperature
+3. (a) Joule
+4. (e) thermal equilibrium
+5. (b) Heating"
+"1. Boyle's Law (a) KB=R/n
+2. Absolute Scale (b) V ∝ t
+3. Charle's Law (c) P ∝ 1/V
+4. Boltzmann Constant (d) V ∝ n
+5. Avogadro's Law (e) 0 K (zero kelvin)","1. (c) P ∝ 1/V
+2. (e) 0 K (zero kelvin)
+3. (b) V ∝ t
+4. (a) KB=R/n
+5. (d) V ∝ n"
+"Assertion: Good conductors of heat are also a good conductor of electricity and vice-versa 
+Reason: Mainly electrons are responsible for there conduction.","(a) Both assertion and reason are true and reason is the correct explanation of assertion."
+"Assertion: Air at some distance above the fire is hotter than the same distance sidewise. 
+Reason: Air surrounding the fire carries heat upward due to conventional current.","(b) Both assertion and reason are true but reason is not the correct explanation of assertion.
+Explanation: Quantity of heat by hot air due to hot conventional current upward is larger by heat side wise due to radiation."
+"What are the characteristic feature of transfer of heat energy?","1. Heat always flows from a system at higher temperature to a system at lower temperature.
+2. The mass of a system is not altered when it is heated or cooled.
+3. For any exchange of heat, the heat gained by the cold system is equal to heat lost by the hot system. Heat gained = Heat lost"
+"In the upper atmosphere, the kinetic temperature of the air is of the order of 1000 K even then one feels severe cold in these places. Why?","As we go at higher altitude the density of air decreases. So distances between molecules increases due to less number of collisions between them. Due to above reason speed of air molecules, the kinetic temperature is of order 1000 K but due to higher altitude, the temperature decreases as the radiation from earth takes longer distance."
+"The earth without its atmosphere would be inhospitably cold why?","The earth without its atmosphere would be inhospitably cold."
+"Why does the pendulum clock run slow in summer and fast in winter?","As we know that time period of pendulum clock T=2π√(L/g) at a place g and 2π are constant. so T ∝ √L
+The length of pendulum in summer increases so the time period of a pendulum is increased. So pendulum takes more time to complete one oscillation and the clock becomes slow in summer. Vice – versa in winter it becomes fast as a time period of a pendulum is decreased due to a decrease in length of a pendulum."
