@@ -1,85 +1,325 @@
-Question,Answer
+Question,Answer,Type
 "Inertia of a body depends on:
 (a) weight of the object
 (b) acceleration due to gravity of the planet
 (c) mass of the object
-(d) both (a) & (b)","(c) mass of the object"
+(d) both (a) & (b)","(c) mass of the object",MCQ
 "Impulse is equals to _______.
 (a) rate of change of momentum
 (b) rate of force and time
 (c) change of momentum
-(d) rate of change of mass.","(c) change of momentum"
+(d) rate of change of mass.","(c) change of momentum",MCQ
 "Newton's III law is applicable:
 (a) for a body is at rest
 (b) for a body in motion
 (c) both (a) & (b)
-(d) only for bodies with equal masses","(b) for a body in motion"
+(d) only for bodies with equal masses","(b) for a body in motion",MCQ
 "Plotting a graph for momentum on the X-axis and time on Y-axis. Slope of momentum – time graph gives _______
 (a) Impulsive force
 (b) Acceleration
 (c) Force
-(d) Rate of force.","(c) Force"
+(d) Rate of force.","(c) Force",MCQ
 "In which of the following sport the turning effect of force is used?
 (a) swimming
 (b) tennis
 (c) cycling
-(d) hockey","(c) cycling"
+(d) hockey","(c) cycling",MCQ
 "The unit of 'g' is ms-2. It can be also expressed as:
 (a) cm s-2
 (b) N kg-1
 (c) N m2kg-1
-(d) cm2s-2","(a) cm s-2"
+(d) cm2s-2","(a) cm s-2",MCQ
 "One kilogram force equals to _______.
 (a) 9.8 dyne
 (b) 9.8 × 104 N
 (c) 98 × 104 dyne
-(d) 980 dyne.","(c) 98 × 104 dyne"
+(d) 980 dyne.","(c) 98 × 104 dyne",MCQ
 "The mass of a body is measured on planet Earth as M kg. When it is taken to a planet of radius half that of the Earth then its value will be ….. kg.
 (a) 4 M
 (b) 2 M
 (c) M/4
-(d) M","(c) M/4"
+(d) M","(c) M/4",MCQ
 "If the Earth shrinks to 50% of its real radius its mass remaining the same, the weight of a body on the Earth will:
 (a) decrease by 50%
 (b) increase by 50%
 (c) decrease by 25%
-(d) increase by 300%","(c) decrease by 25%"
+(d) increase by 300%","(c) decrease by 25%",MCQ
 "To project the rockets which of the following principle(s) is / (are) required?
 (a) Newton's third law of motion
 (b) Newton's law of gravitation
 (c) law of conservation of linear momentum
-(d) both a and c.","(d) both a and c."
-"To produce a displacement …….. is required.","force"
-"Passengers lean forward when the sudden brake is applied in a moving vehicle. This can be explained by ……….","inertia"
-"By convention, the clockwise moments are taken as ……… and the anticlockwise moments are taken as ……….","negative, positive"
-"…….. is used to change the speed of the car.","Accelerator"
-"A man of mass 100 kg has a weight of …….. at the surface of the Earth.","Weight = m × g = 100 × 9.8 = 980 N"
+(d) both a and c.","(d) both a and c.",MCQ
+"To produce a displacement …….. is required.","force",Fill in the blanks
+"Passengers lean forward when the sudden brake is applied in a moving vehicle. This can be explained by ……….","inertia",Fill in the blanks
+"By convention, the clockwise moments are taken as ……… and the anticlockwise moments are taken as ……….","negative, positive",Fill in the blanks
+"…….. is used to change the speed of the car.","Accelerator",Fill in the blanks
+"A man of mass 100 kg has a weight of …….. at the surface of the Earth.","Weight = m × g = 100 × 9.8 = 980 N",Fill in the blanks
+"The linear momentum of a system of particles is always conserved.","True",True or False
+"Apparent weight of a person is always equal to his actual weight.","False – Apparent weight of a person is not always equal to his actual weight.",True or False
+"Weight of a body is greater at the equator and less at the polar region.","False – Weight of a body is minimum at the equator. It is maximum at the poles.",True or False
+"Turning a nut with a spanner having a short handle is so easy than one with a long handle.","False – Turning a nut with a spanner having a longer handle is so easy than one with a short handle.",True or False
+"There is no gravity in the orbiting space station around the Earth. So the astronauts feel weightlessness.","False – Astronauts are falling freely around the earth due to their huge orbital velocity.",True or False
+"Assertion: The sum of the clockwise moments is equal to the sum of the anticlockwise moments.
+Reason: The principle of conservation of momentum is valid if the external force on the system is zero.
+(a) If both the assertion and the reason are true and the reason is the correct explanation of assertion.
+(b) If both the assertion and the reason are true, but the reason is not the correct explanation of the assertion.
+(c) Assertion is true, but the reason is false.
+(d) Assertion is false, but the reason is true.","(b)",Assertion and Reason
+"Assertion: The value of 'g' decreases as height and depth increases from the surface of the Earth.
+Reason: 'g' depends on the mass of the object and the Earth.
+(a) If both the assertion and the reason are true and the reason is the correct explanation of assertion.
+(b) If both the assertion and the reason are true, but the reason is not the correct explanation of the assertion.
+(c) Assertion is true, but the reason is false.
+(d) Assertion is false, but the reason is true.","(c)",Assertion and Reason
 "Assertion: A rocket moves forward by pushing the air backwards.
 Reason: It derives the necessary thrust to move forwarded according to Newton's third law of motion.
 (a) If both the assertion and the reason are true and the reason is the correct explanation of assertion.
 (b) If both the assertion and the reason are true, but the reason is not the correct explanation of assertion.
 (c) Assertion is true, but the reason is false.
-(d) Assertion is false, but the reason is true.","(a) If both the assertion and the reason are true and the reason is the correct explanation of assertion."
+(d) Assertion is false, but the reason is true.","(a) If both the assertion and the reason are true and the reason is the correct explanation of assertion.",Assertion and Reason
 "Assertion: A mass in the elevator which is falling freely, does not experience gravity.
 Reason: Inertial and gravitational masses have equivalence.
 (a) If both the assertion and the reason are true and the reason is the correct explanation of assertion.
 (b) If both the assertion and the reason are true, but the reason is not the correct explanation of assertion.
 (c) Assertion is true, but the reason is false.
-(d) Assertion is false, but the reason is true.","(c) Assertion is true, but the reason is false."
+(d) Assertion is false, but the reason is true.","(c) Assertion is true, but the reason is false.",Assertion and Reason
 "Assertion: The intensity of gravitational field varies with respect to height and depth of a body on the Earth.
 Reason: The value of gravitational field intensity depends on height and depth of a body.
 (a) If both the assertion and the reason are true and the reason is the correct explanation of assertion.
 (b) If both the assertion and the reason are true, but the reason is not the correct explanation of assertion.
 (c) Assertion is true, but the reason is false.
-(d) Assertion is false, but the reason is true.","(d) Assertion is false, but the reason is true."
-"What is meant by mechanics? How can it be classified?","Mechanics is the branch of physics that deals with the effect of force on bodies. It is divided into two branches namely statics and dynamics."
-"What is statics?","Statics deals with the bodies, which are at rest under the action of forces."
-"What is dynamics?","Dynamics is the study of moving bodies under the action of forces."
-"What is Kinematics?","Kinematics deals with the motion of bodies without considering the cause of motion."
-"What is Kinetics?","Kinetics deals with the motion of bodies considering the cause of motion."
+(d) Assertion is false, but the reason is true.","(d) Assertion is false, but the reason is true.",Assertion and Reason
+"Define inertia. Give its classification.","The inherent property of a body to resist any change in its state of rest or the state of uniform motion, unless it is influenced upon by an external unbalanced force, is known as 'inertia'.
+Classifications:
+1. Inertia of rest
+2. Inertia of motion
+3. Inertia of direction",Short Answer
+"Classify the types of force based on their application.","Based on the direction in which the forces act, they can be classified into two types as:
+1. Like parallel forces: Two or more forces of equal or unequal magnitude acting along the same direction, parallel to each other are called like parallel forces.
+2. Unlike parallel forces: If two or more equal forces or unequal forces act along with opposite directions parallel to each other, then they are called, unlike parallel forces.",Short Answer
+"If a 5 N and a 15 N forces are acting opposite to one another. Find the resultant force and the direction of action of the resultant force.","F1 = 5 N
+F2 = 15 N
+∴ Resultant force FR = F1 – F2
+= 5 – 15 = -10 N
+It acts in the direction of the force of 15 N (F2).",Numerical Problem
+"Differentiate mass and weight.","Mass:
+1. It is the quantity of matter contained in a body.
+2. It is a scalar quantity.
+3. Its SI unit is kilogram (kg).
+4. It remains the same everywhere.
+5. It is measured using a physical balance.
+
+Weight:
+1. It is the force with which a body is attracted towards the center of the Earth.
+2. It is a vector quantity.
+3. Its SI unit is newton (N).
+4. It varies from place to place.
+5. It is measured using a spring balance.",Short Answer
+"Define the moment of a couple.","When two equal and unlike parallel forces applied simultaneously at two distinct points constitute a couple. A couple results in causes the rotation of the body. This rotating effect of a couple is known as the moment of a couple.",Short Answer
+"State the principle of moments.","Principle of moments states that if a rigid body is in equilibrium on the action of a number of like (or) unlike parallel forces then the algebraic sum of the moments in the clockwise direction is equal to the algebraic sum of the moments in the anticlockwise direction.",Short Answer
+"State Newton's second law.","The force acting on a body is directly proportional to the rate of change of linear momentum of the body and the change in momentum takes place in the direction of the force.",Short Answer
+"Why a spanner with a long handle is preferred to tighten screws in heavy vehicles?","When a spanner is having a long handle, the turning effect of the applied force is more when the distance between the fixed edge and the point of application of force is more. Hence a spanner with a long handle is preferred to tighten screws in heavy vehicles.",Short Answer
+"While catching a cricket ball the fielder lowers his hands backwards. Why?","While catching a cricket ball the fielder lowers his hands backwards, so increase the time during which the velocity of the cricket ball decreases to zero. Therefore the impact of force on the palm of the fielder will be reduced.",Short Answer
+"How does an astronaut float in a space shuttle?","Astronauts are not floating but falling freely around the earth due to their huge orbital velocity. Since spaceshuttle and astronauts have equal acceleration, they are under free fall condition. (R = 0) Hence, both the astronauts and the space station are in the state of weightlessness.",Short Answer
+"Two bodies have a mass ratio of 3 : 4 The force applied on the bigger mass produces an acceleration of 12 ms2. What could be the acceleration of the other body, if the same force acts on it.","Ratio of masses m1 : m2 = 3 : 4
+Acceleration of m2 is a2 = 12 m/s²
+Force acting of m2 is F2 = m2a2
+F2 = 4 × 12 = 48N
+but F2 = F1
+∴ Force acting on m1 is F1 = 48N
+∴ Acceleration of m1 = a1 = F_1/m_1
+a1 = 48/3
+= 16 m/s²
+Acceleration of the other body ax = 16 m/s²",Numerical Problem
+"A ball of mass 1 kg moving with a speed of 10 ms-1 rebounds after a perfect elastic collision with the floor. Calculate the change in linear momentum of the ball.","Given mass = 1 kg, speed = 10 ms-1
+Initial momentum = mu = 1 × 10 = 10 kg ms-1
+Final momentum = -mu = -10 kg ms-1
+Change in momentum = final momentum – initial momentum = -mu – mu
+Change in momentum = -20 kg ms-1",Numerical Problem
+"A mechanic unscrew a nut by applying a force of 140 N with a spanner of length 40 cm. What should be the length of the spanner if a force of 40 N is applied to unscrew the same nut?","Force acting on the screw F1 = 140 N
+Length of a spanner d1 = 40 × 10-2 m
+Second force applied to the screw F2 = 40 N
+Let the length of spanner be d2
+According to the Principle of moments,
+F1 × d1 = F2 × d2
+= 140 × 40 = 40 × d2
+∴ d2 = (140×40)/40
+= 140 × 10-2 m
+Length of a spanner = 140 × 10-2 m",Numerical Problem
+"The ratio of masses of two planets is 2 : 3 and the ratio of their radii is 4 : 7. Find the ratio of their accelerations due to gravity.","Ratio of masses of two planets is
+m1 : m2 = 2 : 3
+Ratio of their radii,
+R1 : R2 = 4 : 7
+We know g = GM/R²
+∴ g1 : g2 = (Gm1/R1²) : (Gm2/R2²)
+= (m1/R1²) : (m2/R2²)
+= (2/4²) : (3/7²)
+= (2/16) : (3/49)
+= (2×49) : (3×16)
+= 98 : 48
+= 49 : 24",Numerical Problem
+"What are the types of inertia? Give an example for each type.","Types of Inertia:
+(i) Inertia of rest: The resistance of a body to change its state of rest is called inertia of rest.
+E.g.: When you vigorously shake the branches of a tree, some of the leaves and fruits are detached and they fall down (Inertia of rest).
+
+(ii) The inertia of motion: The resistance of a body to change its state of motion is called inertia of motion.
+E.g.: An athlete runs some distance before jumping. Because this will help him jump longer and higher. (Inertia of motion)
+
+(iii) Inertia of direction: The resistance of a body to change its direction of motion is called inertia of direction.
+E.g.: When you make a sharp turn while driving a car, you tend to lean sideways, (Inertia of direction).",Short Answer
+"State Newton's laws of motion.","(i) Newton's First Law: States that 'every body continues to be in its state of rest or the state of uniform motion along a straight line unless it is acted upon by some external force'.
+
+(ii) Newton's Second Law: States that 'the force acting on a body is directly proportional to the rate of change of linear momentum of the body and the change in momentum takes place in the direction of the force'.
+
+(iii) Newton's third law: States that 'for every action, there is an equal and opposite reaction. They always act on two different bodies'.",Short Answer
+"Deduce the equation of a force using Newton's second law of motion.","Let, 'm' be the mass of a moving body, moving along a straight line with an initial speed V. After a time interval of 't', the velocity of the body changes to v due to the impact of an unbalanced external force F.
+Initial momentum of the body Pi = mu
+Final momentum of the body Pf = mv
+Change in momentum Δp = Pi – Pf – mv – mu
+By Newton's second law of motion,
+Force, F ∝ rate of change of momentum
+F ∝ change in momentum / time
+F ∝ (mv-mu)/t
+F = km(v-u)/t
+Here, k is the proportionality constant.
+k = 1 in all systems of units. Hence,
+F = m(v-u)/t
+Since,
+acceleration = change in velocity/time,
+a = (v – u)/t.
+Hence, we have F = m × a
+Force = mass × acceleration",Derivation
+"State and prove the law of conservation of linear momentum.","Law of conservation of linear momentum states that 'the total momentum of a system of bodies remains constant provided no external force acts on them'.
+
+Proof:
+Let two bodies A and B having masses m1 and m2 move with initial velocity u1 and u2 in a straight line. Let the velocity of the first body be higher than that of the second body, i.e,, u1 > u2. During an interval of time t second, they tend to have a collision. After the impact, both of them move along the same straight line with a velocity v1 and v2 respectively.
+Force on body B due to A,
+FB = m2(v2 – u2)/t
+Force on body A due to B,
+FA = m1(v1 – u1)/t
+By Newton's III law of motion,
+Action force = Reaction force
+FA = -FB
+m1(v1 – u1)/t = -m2 (v2 – u2)/t
+m1 v1 + m2 v2 = m1 u1 + m2 u2
+The above equation confirms in the absence of an external force, the algebraic sum of the momentum after collision is numerically equal to the algebraic sum of the momentum before collision.
+Hence the law of conservation of linear momentum is proved.",Derivation
+"Describe rocket propulsion.","1. Propulsion of rockets is based on the law of conservation of linear momentum as well as Newton's III law of motion.
+2. Rockets are filled with fuel (either liquid or solid) in the propellant tank. When the rocket is fired, this fuel is burnt and hot gas is ejected with high speed from the nozzle of the rocket, producing a huge momentum.
+3. To balance this momentum, an equal and opposite reaction force is produced in the combustion chamber, which makes the rocket project forward.
+4. While in motion, the mass of the rocket gradually decreases, until the fuel is completely burnt out.
+5. Since there is no net external force acting on it, the linear momentum of the system is conserved.
+6. The mass of the rocket decreases with altitude, which results in the gradual increase in the velocity of the rocket.
+7. At one stage, it reaches a velocity, which is sufficient to just escape from the gravitational pull of the Earth. This velocity is called escape velocity.",Short Answer
+"State the universal law of gravitation and derive its mathematical expression.","Newton's universal law of gravitation states that every particle of matter in this universe attracts every other particle with a force. This force is directly proportional to the product of their masses and inversely proportional to the square of the distance between the centres of these masses. The direction of the force acts along the line joining the masses.
+
+Force between the masses is always attractive and it does not depend on the medium where they are placed.
+
+Let, m1 and m2 be the masses of two bodies A and B placed r metre apart in space
+Force
+F ∝ m1 × m2
+F ∝ 1/r²
+On combining the above two expressions
+F ∝ (m_1×m_2)/r^2
+F = (Gm_1 m_2)/r^2
+Where G is the universal gravitational constant. Its value in SI unit is 6.674 × 10-11 N m² kg-2.",Derivation
+"Give the applications of gravitation.","1. Dimensions of the heavenly bodies can be measured using the gravitation law. Mass of the Earth, the radius of the Earth, acceleration due to gravity, etc. can be calculated with higher accuracy.
+2. Helps in discovering new stars and planets.
+3. One of the irregularities in the motion of stars is called 'Wobble' lead to the disturbance in the motion of a planet nearby. In this condition, the mass of the star can be calculated using the law of gravitation.
+4. Helps to explain germination of roots is due to the property of geotropism, which is the property of a root responding to the gravity.
+5. Helps to predict the path of the astronomical bodies.",Short Answer
+"Two blocks of masses 8 kg and 2 kg respectively lie on a smooth horizontal surface in contact with one other. They are pushed by a horizontally applied force of 15 N. Calculate the force exerted on the 2 kg mass.","Mass of first block m1 = 8 kg
+Mass of second block m2 = 2 kg
+Total mass M = 8 + 2 = 10 kg
+Force applied F = 15 N
+∴ Acceleration a = F/M
+= 15/10 = 1.5 m/s²
+Force exerted on the 2 kg mass,
+F = ma
+= 2 × 1.5 = 3 N",Numerical Problem
+"A heavy truck and bike are moving with the same kinetic energy. If the mass of the truck is four times that of the bike, then calculate the ratio of their momenta.","Let the mass of truck be m1
+Let the mass of bike be m2
+m1 = 4m2
+∴ m_1/m_2 = 4
+Kinetic energy K.E1 = K.E2
+∴ m1v_1^2/2 = m2v_2^2/2
+m1v_1^2 = m2v_2^2
+4m2v_1^2 = m2v_2^2
+v_1^2 = v_2^2/4
+v_1 = v_2/2
+Ratio of momenta be P1 : P2
+= m1v1 : m2v2
+= 4m2 × v_2/2 : m2v2
+= 2m2v2 : m2v2
+= 2 : 1
+∴ Ratio of their momenta = 2 : 1",Numerical Problem
+"'Wearing helmet and fastening the seat belt is highly recommended for safe journey' Justify your answer using Newton's laws of motion.","(i) According to Newton's Second Law, when you fall from a bike on the ground with a force equal to your mass and acceleration of the bike.
+According to Newton's Third Law, an equal and opposite reacting force on the ground is exerted on your body. When you do not wear a helmet, this reacting force can cause fatal head injuries. So it is important to wear helmet for a safe journey.
+
+(ii) Inertia in the reason that people in cars need to wear seat belts. A moving car has inertia, and so do the riders inside it. When the driver applies the brakes, an unbalanced force in applied to the car. Normally the bottom of the seat applies imbalanced force friction which slows the riders down as the car slows. If the driver stops the car suddenly, however, this force is not exerted over enough time to stop the motion of the riders. Instead, the riders continue moving forward with most of their original speed because of their inertia.",Short Answer
+"When a force is exerted on an object, it can change its:
+(a) state
+(b) shape
+(c) position
+(d) all the above","(d) all the above",MCQ
+"When the train stops, the passenger moves forward, It is due to _______.
+(a) Inertia of passenger
+(b) Inertia of train
+(c) gravitational pull by the earth
+(d) None of the above.","(a) Inertia of passenger",MCQ
+"Force is a …….. quantity.
+(a) vector
+(b) fundamental
+(c) scalar
+(d) none","(a) vector",MCQ
+"The force of gravitation is _________.
+(a) repulsive
+(b) conservative
+(c) electrostatic
+(d) non – conservative.","(b) conservative",MCQ
+"The laws of motion of a body is given by:
+(a) Galileo
+(b) Archimedis
+(c) Einstein
+(d) Newton","(d) Newton",MCQ
+"A bodyweight 700 N on earth. What will be its weight on a planet having 1 / 7 of earth's mass and half of the earth's radius?
+(a) 400 N
+(b) 300 N
+(c) 200 N
+(d) 100 N.","(a) 400 N",MCQ
+"From the following statements write down that which is not applicable to mass of an object:
+(a) It is a fundamental quantity
+(b) It is measured using physical balance
+(c) It is measured using spring balance
+(d) It is the amount of matter.","(c) It is measured using spring balance",MCQ
+"Newton's first law of motion defines:
+(a) inertia
+(b) force
+(c) acceleration
+(d) both inertia and force","(d) both inertia and force",MCQ
+"If force – mass × acceleration, then momentum = ………","mass × velocity",Fill in the blanks
+"If liquid hydrogen is for rocket, then …….. is for MRI.","liquid helium",Fill in the blanks
+"Inertia: Mass then momentum: ………","mass × velocity",Fill in the blanks
+"Recoil of the gun: Newton's third law then flight of Jet Planes and Rockets: ………","Conservation of momentum",Fill in the blanks
+"Newton's first law of motion: definition of force and inertia then Newton's third law of motion: ….(i)….. while Newton's second law of motion: ……(ii)…….","(i) action and reaction (ii) quantitative definition of force",Fill in the blanks
+"Newton's first law: qualitative definition of force Newton's second law: …..(i)…… The value of g: 9.8 ms-2 then Gravitational constant: …..(ii)……","(i) quantitative definition of force (ii) 6.674 × 10-11 Nm2kg-2",Fill in the blanks
+"Force: vector then momentum: …….(i)……. Balanced force: resultant of the two forces is zero then……(ii)…….. : resultant forces are responsible for change in position or state.","(i) vector (ii) unbalanced force",Fill in the blanks
+"Match the following:
+A. Inertia - (i) kg m/s
+B. Momentum - (ii) kg
+C. Acceleration - (iii) m/s
+D. Velocity - (iv) m/s²","A. (ii)
+B. (i)
+C. (iv)
+D. (iii)",Matching
+"What is meant by mechanics? How can it be classified?","Mechanics is the branch of physics that deals with the effect of force on bodies. It is divided into two branches namely statics and dynamics.",Short Answer
+"What is statics?","Statics deals with the bodies, which are at rest under the action of forces.",Short Answer
+"What is dynamics?","Dynamics is the study of moving bodies under the action of forces.",Short Answer
+"What is Kinematics?","Kinematics deals with the motion of bodies without considering the cause of motion.",Short Answer
+"What is Kinetics?","Kinetics deals with the motion of bodies considering the cause of motion.",Short Answer
 "Define momentum. State its unit.","The product of mass and velocity of a moving body gives the magnitude of linear momentum. It acts in the direction of the velocity of the object.
-Its S.I unit is kg ms-1."
-"What is meant by a force?","Force is one that changes or tends to change the state of rest or of uniform motion of a body."
+Its S.I unit is kg ms-1.",Short Answer
+"What is meant by a force?","Force is one that changes or tends to change the state of rest or of uniform motion of a body.",Short Answer
 "State the effects of force.","1. Produces or tries to produce the motion of a static body.
 2. Stops or tries to stop a moving body.
-3. Changes or tries to change the direction of motion of a moving body."
+3. Changes or tries to change the direction of motion of a moving body.",Short Answer
