@@ -19,11 +19,6 @@ Question,Answer,Type
 (b) sum of P.E and K.E
 (c) difference in T.E and P.E
 (d) difference in K.E and T.E","(b) sum of P.E and K.E",MCQ
-"In the Given diagram, the possible direction of heat energy transformation is:
-(a) A ← B, A ← C, B ← C
-(b) A → B, A → C, B → C
-(c) A → B, A ← C, B → C
-(d) A ← B, A → C, B ← C","(a) A ← B, A ← C, B ← C",MCQ
 "The commonly used scales of temperature are:
 (a) Kelvin
 (b) Celsius
@@ -47,7 +42,7 @@ Question,Answer,Type
 "The relation between Celsius and kelvin scales of temperature is:
 (a) K = 273 – C
 (b) K = C + 273
-(c) K= 
+(c) K=
 (d) K = C","(b) K = C + 273",MCQ
 "Linear expansion is related to ______.
 (a) area
@@ -104,32 +99,7 @@ Question,Answer,Type
 (b) contains less heat than water at the same temperature.
 (c) contains more heat than water at the same temperature.
 (d) cause bums by nature.","(c) contains more heat than water at the same temperature.",MCQ
-"Which expansion coefficient (α, β, γ) of a substance has the largest and smallest magnitude?
-(a) α, β
-(b) α, γ
-(c) γ, α
-(d) β, α.","(c) γ, α",MCQ
-"According to the principle of mixtures, the heat lost by a hot body is equal to:
-(a) Heat gained by the surroundings
-(b) Heat transferred to the surroundings
-(c) Heat gained by the body
-(d) None of the above","(a) Heat gained by the surroundings",MCQ
-"The quantity of water vapour required to saturate air at high temperature is:
-(a) Less
-(b) Temperature
-(c) More
-(d) None of the above","(c) More",MCQ
-"In steam heater, solids attain constant temperature because:
-(a) Solid should not be heated less
-(b) Solid should not be heated more
-(c) Melting point of solid is 100°C
-(d) Volume does not change.","(c) Melting point of solid is 100°C",MCQ
-"The quantity of water vapour required to saturate air depends on:
-(a) Pressure of atmosphere
-(b) Temperature of atmosphere
-(c) Humidity of atmosphere E
-(d) All the above","(b) Temperature of atmosphere",MCQ
-"The value of Avogadro number is:","6.023 × 10^23",Fill in the blanks
+"The value of Avogadro number is","6.023 × 10^23",Fill in the blanks
 "The temperature and heat are _______ quantities.","Inter convertible",Fill in the blanks
 "One calorie is the amount of heat energy required to raise the temperature of _______ of water through _______","1 gram, 1°C",Fill in the blanks
 "According to Boyle's law, the shape of the graph between pressure and reciprocal of volume is _______","A straight line",Fill in the blanks
@@ -144,15 +114,6 @@ Question,Answer,Type
 "The coefficient of linear expansion is _______ for _______ metals.","different, different",Fill in the blanks
 "The unit of coefficient of superficial expansion is _______","K^-1",Fill in the blanks
 "The coefficient of cubical expansion of liquid is independent of _______","Temperature",Fill in the blanks
-"The S.l of unit of coefficient of real expansion is _______","K^-1",Fill in the blanks
-"As per Boyle's law pressure of a gas is _______ proportional to its volume.","inversely",Fill in the blanks
-"PV = constant is the mathematical form of _______","Boyle's law",Fill in the blanks
-"As per Charles's law volume of a gas is _______ to temperature.","directly proportional",Fill in the blanks
-"According Avogadro's law volume of a gas is directly proportional _______ present in it.","number of atoms or molecules",Fill in the blanks
-"For a given heat, the real expansion is _______ than that of apparent expansion.","more",Fill in the blanks
-"The equation of state of a gas is _______","PV = RT",Fill in the blanks
-"Universal gas equation is used to describe the _______","state of any gas",Fill in the blanks
-"If a gas consists of µ moles then the number of atoms in n = _______","µNA, NA – Avogadro's number",Fill in the blanks
 "For a given heat in liquid, the apparent expansion is more than that of real expansion.","True",True/False
 "Thermal energy always flows from a system at higher temperature to a system at lower temperature.","True",True/False
 "According to Charles's law, at constant pressure, the temperature is inversely proportional to volume.","False – According to Charles law, at constant pressure, the volume is directly proportional to temperature.",True/False
@@ -161,11 +122,6 @@ Question,Answer,Type
 "Thermal energy is also known as heat energy.","True",True/False
 "When a body is heated volume is not altered.","False – When a body is heated mass is not altered.",True/False
 "All forms of matter undergo expansion on heating.","True",True/False
-"Longitudinal expansion is given by ΔL = L0αLΔT","True",True/False
-"Cubical expansion is same for all materials.","False – Cubical expansion is different for different materials.",True/False
-"The S.l unit of coefficient of apparent expansion is K^-1.","True",True/False
-"As per Boyle's law PT = constant.","False – As per Boyle's law PV= constant.",True/False
-"According to Avogadro's law V/n = constant","True",True/False
 "Match the following:
 A. Boyle's law
 B. Charles's law
@@ -216,14 +172,6 @@ Reason: Interatomic or intermolecular distance in the gas is comparably high.","
 Reason: The impurities in water bring down its boiling point.","(c) The assertion is true but the reason is false.",Assertion and Reason
 "Assertion: Air at some distance above the fire is hotter than same distance below it.
 Reason: Air surrounding the fire carries heat upwards.","(a) Both the assertion and the reason are true and the reason is the correct explanation of the assertion.",Assertion and Reason
-"Assertion: Woolen clothes keys the body warm in winter.
-Reason: Air a poor conducts of heat.","(a) Both the assertion and the reason are true and the reason is the correct explanation of the assertion.",Assertion and Reason
-"Assertion: Temperature near the sea coast is moderate.
-Reason: Water has a high thermal conductivity.","(b) Both the assertion and the reason are true but the reason is not the correct explanation of the assertion.",Assertion and Reason
-"Assertion: It is hotter over the top of fire than at the same distance on the sides.
-Reason: Air surrounding the fire conducts more heat upwards.","(c) The assertion is true but the reason is false.",Assertion and Reason
-"Assertion: Perspiration from human body helps in cooling the body. 
-Reason: A thin layer of water on the skin enhance its emissivity.","(c) The assertion is true but the reason is false.",Assertion and Reason
 "Define one calorie.","One calorie is defined as the amount of heat energy required to rise the temperature of 1 gram of water through 1°C.",Short Answer
 "Distinguish between linear and superficial areal expansion.","Linear expansion:
 1. It is the expansion along the length of the object.
@@ -241,29 +189,6 @@ P ∝ 1/V",Short Answer
 i.e., V ∝ T.
 (or)
 V/T = constant.",Short Answer
-"Distinguish between ideal gas and real gas.","Ideal Gas:
-1. It obeys all gas laws at all values of temperature and pressure.
-2. Size of molecules is negligibly small.
-3. There is no force of attraction or repulsion between its molecules.
-
-Real Gas:
-1. It does not obey gas laws at all values of temperature and pressure.
-2. Size of molecules is not negligible.
-3. There are forces of attraction or repulsion between its molecules.",Short Answer
-"What is co-efficient of real expansion?","Coefficient of real expansion is defined as the ratio of the true rise in the volume of the liquid per degree rise in temperature to its unit volume. The SI unit of coefficient of real expansion is the K^-1.",Short Answer
-"What is the coefficient of apparent expansion?","Coefficient of apparent expansion is defined as the ratio of the apparent rise in the volume of the liquid per degree rise in temperature to its unit volume.
-The SI unit of the coefficient of apparent expansion is K^-1.",Short Answer
-"Define Temperature.","Temperature is defined as the property which determines whether a body is in equilibrium or not with the surroundings.",Short Answer
-"Why the gas thermometer is more sensitive than Hg thermometer","As the thermal (cubical) expansion of gas is much larger than Hg. So gas thermometer is more sensitive than of Hg thermometer.",Short Answer
-"What is meant by thermodynamic temperature?","The temperature measured in relation to absolute zero using the kelvin scale is known as absolute temperature. It is also known as the thermodynamic temperature.",Short Answer
-"What is the relation between different types of scale of temperature?","The relation between the different types of scale of temperature:
-Celsius and Kelvin: K = C + 273,
-Fahrenheit and Kelvin: K = (F + 460) × 5/9.
-0 K = -273°C.",Short Answer
-"Do all liquids expand on heating? give an example.","All liquids do not expand on heating. If water is heated from 0°C to 4°C it contracts.",Short Answer
-"What will happen if two bodies are at different temperatures brought in contact with one other?","There will be a transfer of heat energy from the hot body to the cold body until a thermal equilibrium is established between them.",Short Answer
-"What will happen if a cold body is placed in contact with a hot body?","Some thermal energy is transferred from the hot body to the cold body. As a result, there is some rise in the temperature of the cold body and decrease in the temperature of the hot body. This process will continue until these two bodies attain the same temperature.",Short Answer
-"Why is invar is used in making a clock pendulum or spring to oscillate?","Invar an alloy of Ni and steel has extremely low thermal expansion so the change in length in summer and winter will be a very small change, so the time period of oscillation will be very small. Hence the clock gives almost the correct time.",Short Answer
 "Find the final temperature of a copper rod whose area of cross section changes from 10 m² to 11 m² due to heating. The copper rod is initially kept at 90 K. (Coefficient of superficial expansion is 0.0021 /K).","Change in area ΔA = 11 – 10 = 1 m²
 Initial temperature T1 = 90 K
 Let Final temperature be T2K
@@ -291,18 +216,6 @@ Coefficient of cubical expansion is
 = (273 + 100) K
 = 373 K
 100°C = 373 K",Numerical Problem
-"Convert 23 K into °C.","T = 23 K
-T°C = K – 273
-= 23 – 273
-= -250°C
-23 K = -250°C",Numerical Problem
-"At what temperature do the ratings of Celsius and Fahrenheit scales coincide?","Let TB = TB – x
-F = 9C/5 + 32
-x = 9x/5 + 32
-5x = 9x + 160
--4x = 160
-x = -40°
-∴ Hence -40°C and -40°F are identical Temperature.",Numerical Problem
 "Derive the ideal gas equation.","The ideal gas equation is an equation, which relates all the properties of an ideal gas. An ideal gas obeys Boyle's law and Charles's law and Avogadro's law.
 According to Boyle's law, PV = constant ………. (1)
 According to Charles's law,
@@ -326,47 +239,3 @@ Ideal gas equation is also called as equation of state because it gives the rela
 Real expansion = L3 – L2
 Apparent expansion = L3 – L1",Conceptual Question
 "If you keep ice at 0°C and water at 0°C in either of your hands, in which hand you will feel more chillness? Why?","The hand consisting of ice at 0°C would feel more chillness because, ice undergoes melting. More amount of energy (chillness) is transferred to hand. In addition ice has latent heat of fusion.",Conceptual Question
-"Explain how the loss of heat (or transfer of heat) due to modes of transfer of heat is minimised in a thermos flask.","Transfer of heat is thermos is minimised as under:
-(i) By conduction: As in conduction heat can transfer by contact of a material medium. In thermos, the air is evacuated between the walls so heat transfer is stopped by conduction mode.
-
-(ii) By convection: As convection mode also requires material (fluid) medium and there is nothing between the walls of thermos so heat does not transfer by connection mode.
-
-(iii) By Radiation: As Ag polish is coated opaque on inner and outer walls of thermos radiation obeys the laws of refraction and reflection so no refraction takes place through opaque wall.
-Reflection of outer radiation goes outside of the inner wall goes inside. So the transfer of heat is minimised by polishing.",Conceptual Question
-"Explain linear expansion in Solids.","When a body is heated or cooled, the length of the body changes due to change in its temperature. Then the expansion is said to be linear or longitudinal expansion.
-
-The ratio of increase in length of the body per degree rise in temperature to its unit length is called as the coefficient of linear expansion. The SI unit of Coefficient of Linear expansion is K^-1. The value of coefficient of linear expansion is different for different materials.
-
-The equation relating the change in length and the change in temperature of a body is given below:
-ΔL/L_0 = αLΔT
-ΔL – Change in length (Final length – Original length)
-L0 – Original length
-ΔT – Change in temperature (Final temperature – Initial temperature)
-αL – Coefficient of linear expansion.",Conceptual Question
-"Write a note on superficial expansion.","If there is an increase in the area of a solid object due to heating, then the expansion is called superficial or areal expansion.
-
-Superficial expansion is determined in terms of coefficient of superficial expansion. The ratio of increase in area of the body per degree rise in temperature to its unit area is called as coefficient of superficial expansion. Coefficient of superficial expansion is different for different materials. The SI unit of Coefficient of superficial expansion is K^-1.
-
-The equation relating to the change in area and the change in temperature is given below:
-ΔA/A_0 = αAΔT
-ΔA – Change in area (Final area – Original area)
-A0 – Original area
-ΔT – Change in temperature (Final temperature – Initial temperature)
-αA – Coefficient of superficial expansion.",Conceptual Question
-"What do you know about cubical expansion?","If there is an increase in the volume of a solid body due to heating, then the expansion is called cubical or volumetric expansion. As in the cases of linear and areal expansion, cubical expansion is also expressed in terms of coefficient of cubical expansion. The ratio of increase in volume of the body ' per degree rise in temperature to its unit volume is called as coefficient of cubical expansion. This is also measured in K^-1.
-
-The equation relating to the change in volume and the change in temperature is given below:
-ΔV/V_0 = αVΔT
-ΔV – Change in volume (Final volume – Original volume)
-V0 – Original volume
-ΔT – Change in temperature (Final temperature – Initial temperature)
-αV – Coefficient of cubical expansion.",Conceptual Question
-"At what common temperature a block of wood metal appear equally cold or hot when touched?","A body appears hot when touched if heat flows from the body to our hand and vice – versa. If there is no flow of heat across the body and hand, the body can not be identified while it is hot or cold as bodies are in thermal equilibrium with our body. So both block of wood and metal must have the temperature of our body i.e., 37°C.",Conceptual Question
-"At room temperature water does not sublimate from ice to steam. Give reason.","The critical temperature of the water is much above room temperature.",Conceptual Question
-"Good conductors of heat are also good conductors of electricity and vice versa why?","It is because of the movement of electrons present in the materials.",Conceptual Question
-"When does the Charle's law fail?","By Charle's law at constant pressure
-V ∝ T or T ∝ V
-At T = 0 K volume must be zero but it is impossible, at low-temperature gases does not obey the characterise of the ideal gas. As the molecules come closer and force of attraction and repulsion takes place.",Conceptual Question
-"When sugar is added to tea it gets cooled, why?","When sugar is added to tea, its heat gets shared by sugar. So temperature of tea decreases.",Conceptual Question
-"A metal disc has a hole in it. What happens to the size of the hole, when the disc is heated.","The size of the hole increases. Because expansion takes place on heating.",Conceptual Question
-"Can the temperature of a body be negative on the kelvin scale.","No, This is because absolute zero on the kelvin scale is the minimum possible temperature.",Conceptual Question
