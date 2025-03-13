@@ -1,10 +1,69 @@
-Question,Answer
-"The velocity of light is greater in a denser medium than in a rarer medium?","False.
-Correct Statement: Velocity of light is lesser in a denser medium than in rarer medium"
-"The power of the lens depends on the focal length of the lens?","True."
-"Increase in the converging power of eye lens cause 'hypermetropia'.","True."
-"The convex lens always gives a small virtual image.","False.
-Correct Statement: The convex lens give enlarged. Virtual image when it is placed between pole and principal focus."
+Question,Answer,Type
+"The refractive index of four substances A, B, C and D are 1.31,1.43,1.33, 2.4 respectively. The speed of light is maximum in:
+(a) A
+(b) B
+(c) C
+(d) D","(a) A",MCQ
+"Where should an object be placed so that a real and inverted image of same size is obtained by a convex lens:
+(a) f
+(b) 2f
+(c) infinity
+(d) between f and 2f","(b) 2f",MCQ
+"Magnification of a convex lens is _______.
+(a) positive
+(b) negative
+(c) either positive or negative
+(d) zero.","(b) negative",MCQ
+"A convex lens forms a real, diminished point sized image at focus. Then the position of the object is at:
+(a) focus
+(b) infinity
+(c) at 2f
+(d) between f and 2f","(b) infinity",MCQ
+"Power of a lens is -4D, then its focal length is:
+(a) 4 m
+(b) -40 m
+(c) -0.25 m
+(d) -2.5 m","(d) -2.5 m",MCQ
+"In a myopic eye, the image of the object is formed _______.
+(a) behind the retina
+(b) on the retina
+(c) in front of the retina
+(d) on the blind spot.","(c) in front of the retina",MCQ
+"The eye defect 'presbyopia' can be corrected by:
+(a) convex lens
+(b) concave lens
+(c) convex mirror
+(d) Bi focal lenses","(d) Bi focal lenses",MCQ
+"Which of the following lens would you prefer to use while reading small letters found in a dictionary?
+(a) A convex lens of focal length 5 cm
+(b) A concave lens of focal length 5 cm
+(c) A convex lens of focal length 10 cm
+(d) A concave lens of focal length 10 cm","(d) A concave lens of focal length 10 cm",MCQ
+"If VB, VG, VR be the velocity of blue, green and red light respectively in a glass prism, then which of the following statement gives the correct relation?
+(a) VB = VG = VR
+(b) VB > VG > VR
+(c) VB < VG < VR
+(d) VB < VG > VR","(c) VB < VG < VR",MCQ
+"The path of the light is called as ………","ray",Fill in the blanks
+"The refractive index of a transparent medium is always greater than ……….","unity",Fill in the blanks
+"If the energy of incident beam and the scattered beam are same, then the ………. scattering of light is called as scattering ……….","elastic",Fill in the blanks
+"According to Rayleigh's scattering law, the amount of scattering of light is inversely proportional to the fourth power of its ……….","wavelength",Fill in the blanks
+"Amount of light entering into the eye is controlled by ……….","iris",Fill in the blanks
+"The velocity of light in vacuum is ……….","3 × 10^8 m/s",Fill in the blanks
+"If v is the frequency and λ is the wavelength then velocity of the wave is c = ……….","vλ",Fill in the blanks
+"Among colours of visible light ……… colour has the highest wavelength.","red",Fill in the blanks
+"According to Snell's law refractive index, µ2 = ……….","sin i/sin r",Fill in the blanks
+"In a medium having high value of refractive index then speed of light in that medium is ……….","low",Fill in the blanks
+"Velocity of light is greater in denser medium than in rarer medium.","False – Velocity of light is greater in rarer medium than in denser medium.",True or False
+"The power of lens depends on the focal length of the lens.","True",True or False
+"Increase in the converging power of eye lens cause 'hypermetropia'","True",True or False
+"The convex lens always gives small virtual image.","False – The convex lens does not give small virtual image always.",True or False
+"Light does not travel along a straight line.","False – Light always travels along a straight lines.",True or False
+"All coloured light has same wavelength.","False – Different coloured light has different wavelength.",True or False
+"In refraction incident ray, refracted ray and normal lie in the same plane.","True",True or False
+"Velocity of light is greater in rarer medium is greater than that in denser medium.","True",True or False
+"For red colour angle of refraction is the least.","True",True or False
+"The refractive index of a medium is independent of wavelength.","False – The refractive index of a medium depends on wavelength.",True or False
 "1. Retina          (a) Pathway of light
 2. Pupil           (b) Far point comes closer
 3. Ciliary muscles (c) Near point moves away
@@ -13,18 +72,34 @@ Correct Statement: The convex lens give enlarged. Virtual image when it is place
 2. (a) Pathway of light
 3. (e) Power of accommodation
 4. (b) Far point comes closer
-5. (c) Near point moves away"
+5. (c) Near point moves away",Matching
+"Match the following:
+A. Rayleigh scattering - (i) Colloidal particles
+B. Mie scattering - (ii) Monochromatic light
+C. Tyndall scattering - (iii) Molecules of gases
+D. Raman scattering - (iv) Pollen, dust, smoke","A. (iii)
+B. (iv)
+C. (i)
+D. (ii)",Matching
 "Assertion: If the refractive index of the medium is high (denser medium) the velocity of the light in that medium will be small
-Reason: Refractive index of the medium is inversely proportional to the velocity of the light","(a) If both assertion and reason are true and reason is the correct explanation of assertion."
-"Assertion: Myopia is due to the increase in the converging power of the eye lens.
-Reason: Myopia can be corrected with the help of the concave lens.","(b) If both assertion and reason are true but reason is not the correct explanation of assertion."
-"What is refractive index?","The ratio of the speed of light in a vacuum to the speed of light in a medium is defined as the refractive index 'µ' of that medium."
+Reason: Refractive index of the medium is inversely proportional to the velocity of the light","(a) If both assertion and reason are true and reason is the correct explanation of assertion.",Assertion and Reason
+"Assertion: Myopia is due to the increase in the converging power of eye lens.
+Reason: Myopia can be corrected with the help of concave lens.","(a) If both assertion and reason are true and reason is the correct explanation of assertion.",Assertion and Reason
+"Assertion: The sun looks bigger in size at sunrise and sunset than during day.
+Reason: In detraction light rays bend around the edges of the obstacle.","(b) If both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",Assertion and Reason
+"Assertion: Colours can be scan in thin layers of oil on the surface water. 
+Reason: White light is composed of several colours.","(b) If both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",Assertion and Reason
+"Assertion: Raman spectrum of a liquids contains lines whose frequencies are not equal to that of incident radiation.
+Reason: If a photon strikes an atom in a liquid that is in existed state photon losses energy.","(b) If both Assertion and Reason are true but Reason is not the correct explanation of Assertion.",Assertion and Reason
+"What is refractive index?","Refractive index gives us an idea of how fast or how slow light travels in a medium.
+
+The ratio of the speed of light in a vacuum to the speed of light in a medium is defined as the refractive index 'µ' of that medium.",Short Answer
 "State Snell's law.","The ratio of the sine of the angle of incidence and sine of the angle of refraction is equal to the ratio of refractive indices of the two media. This law is also known as Snell's law.
-sin i/sin r=µ2/µ1"
-"Draw a ray diagram to show the image formed by a convex lens when the object is placed between F and 2F.","Ray diagram for an object placed between F and 2F"
-"Define dispersion of light.","When a beam of white light or composite light is refracted through any transparent media such as glass or water, it is split into its component colours. This phenomenon is called as 'dispersion of light'."
+sin i/sin r = µ2/µ1",Short Answer
+"Draw a ray diagram to show the image formed by a convex lens when the object is placed between F and 2F.","Ray diagram for an object placed between F and 2F",Short Answer
+"Define dispersion of light.","When a beam of white light or composite light is refracted through any transparent media such as glass or water, it is split into its component colours. This phenomenon is called as 'dispersion of light'.",Short Answer
 "State Rayleigh's law of scattering.","Rayleigh's scattering law states that, 'The amount of scattering of light is inversely proportional to the fourth power of its wavelength'.
-Amount of scattering 'S' ∝1/λ4"
+Amount of scattering 'S' ∝1/λ4",Short Answer
 "Differentiate convex lens and concave lens.","Convex lens:
 1. It is thicker at the middle than at the edges.
 2. It is a converging lens.
@@ -33,29 +108,29 @@ Amount of scattering 'S' ∝1/λ4"
 Concave lens:
 1. It is thinner at the middle than at the edges.
 2. It is a diverging lens.
-3. It forms only virtual images."
+3. It forms only virtual images.",Short Answer
 "What is the power of accommodation of the eye?","* The ability of the eye lens to focus nearby as well as the distant objects is called the power of accommodation of the eye.
-* This is achieved by changing the focal length of the eye lens with the help of ciliary muscles."
+* This is achieved by changing the focal length of the eye lens with the help of ciliary muscles.",Short Answer
 "What are the causes of 'Myopia'?","1. The lengthening of eye ball.
 2. The focal length of eye lens is reduced.
 3. The distance between eye lens and retina increases.
 4. The far point will not be at infinity.
-5. The far point comes closer."
-"Why does the sky appear blue in colour?","When sunlight passes through the atmosphere, the blue colour (shorter wavelength) is scattered to a greater extent than the red colour (longer wavelength). This scattering causes the sky to appear blue in colour."
+5. The far point comes closer.",Short Answer
+"Why does the sky appear blue in colour?","When sunlight passes through the atmosphere, the blue colour (shorter wavelength) is scattered to a greater extent than the red colour (longer wavelength). This scattering causes the sky to appear blue in colour.",Short Answer
 "Why are traffic signals red in colour?","* Red light has the highest wavelength.
 * It is scattered by atmospheric particles.
-* So red light is able to travel the longest distance through a fog, rain etc."
+* So red light is able to travel the longest distance through a fog, rain etc.",Short Answer
 "List any five properties of light?","* Light is a form of energy.
 * Light always travels along a straight line.
 * Light does not need any medium for its propagation. It can even travel through a vacuum.
 * The speed of light in vacuum or air is, c = 3 × 108 ms-1
 * Since light is in the form of waves, it is characterized by a wavelength (λ) and a frequency (v), which are related by the following equation: c = vλ (c = velocity of light).
-* Different coloured light has a different wavelength and frequency."
+* Different coloured light has a different wavelength and frequency.",Short Answer
 "Explain the rules for obtaining images formed by a convex lens with the help of ray diagram.","Rule-1: When a ray of light strikes the convex or concave lens obliquely at its optical centre, it continues to follow its path without any deviation.
 
 Rule-2: When rays parallel to the principal axis strikes a convex or concave lens, the refracted rays are converged to (convex lens) or appear to diverge from (concave lens) the principal focus.
 
-Rule-3: When a ray passing through (convex lens) or directed towards (concave lens) the principal focus strikes a convex or concave lens, the refracted ray will be parallel to the principal axis."
+Rule-3: When a ray passing through (convex lens) or directed towards (concave lens) the principal focus strikes a convex or concave lens, the refracted ray will be parallel to the principal axis.",Short Answer
 "Differentiate the eye defects: Myopia and Hypermetropia.","Myopia:
 1. It is also known as near-sightedness.
 2. The image is formed in front of the retina.
@@ -66,36 +141,132 @@ Hypermetropia:
 1. It is also known as far-sightedness.
 2. The image is formed behind the retina.
 3. The near point moves away.
-4. It is corrected by using a convex lens."
+4. It is corrected by using a convex lens.",Short Answer
 "State laws of refraction.","First law of refraction: The incident ray, the refracted ray of light and the normal to the refracting surface all lie in the same plane.
 
 Second law of refraction: The ratio of the sine of the angle of incidence and sine of the angle of refraction is equal to the ratio of refractive indices of the two media. This law is also known as Snell's law.
-sin i/sin r = µ2/µ1"
-"Define refractive index of a medium.","The ratio of speed of light in vacuum to the speed of light in a medium is defined as refractive index 'p' of that medium."
-"What is meant by monochromatic source?","If a source of light produces a light of single colour, it is known as a monochromatic source."
+sin i/sin r = µ2/µ1",Short Answer
+"Define refractive index of a medium.","The ratio of speed of light in vacuum to the speed of light in a medium is defined as refractive index 'p' of that medium.",Short Answer
+"What is meant by monochromatic source?","If a source of light produces a light of single colour, it is known as a monochromatic source.",Short Answer
 "When white light is refracted by a transparent medium what will you get? Why?","1. When white light is refracted by a transparent medium, a spectrum is obtained.
-2. This is because, different coloured lights are bent through different angles."
-"What is scattering of light?","When sunlight enters the Earth's atmosphere, the atoms and molecules of different gases present in the atmosphere refract the light in all possible directions. This is called as 'Scattering of light'."
+2. This is because, different coloured lights are bent through different angles.",Short Answer
+"What is scattering of light?","When sunlight enters the Earth's atmosphere, the atoms and molecules of different gases present in the atmosphere refract the light in all possible directions. This is called as 'Scattering of light'.",Short Answer
 "State the types of scattering.","1. Elastic scattering
-2. Inelastic scattering"
-"What is elastic scattering?","If the energy of the incident beam of light and the scattered beam of light are same, then it is called as 'elastic scattering'."
-"What is inelastic scattering?","If the energy of the incident beam of light and the scattered beam of light are not same, then it is called as 'inelastic scattering'."
+2. Inelastic scattering",Short Answer
+"What is elastic scattering?","If the energy of the incident beam of light and the scattered beam of light are same, then it is called as 'elastic scattering'.",Short Answer
+"What is inelastic scattering?","If the energy of the incident beam of light and the scattered beam of light are not same, then it is called as 'inelastic scattering'.",Short Answer
 "How are different types of scattering formed? Mention the types of scattering.","The nature and size of the scatterer results in different types of scattering. They are
 
 1. Rayleigh scattering
 2. Mie scattering
 3. Tyndall scattering
-4. Raman scattering"
-"What is Rayleigh scattering?","The scattering of sunlight by the atoms or molecules of the gases in the earth's atmosphere is known as Rayleigh scattering."
-"Why the colour of the Sun is red at sunrise and sunset?","At sunrise and sunset, the light rays from the Sun have to travel a larger distance in the atmosphere than at noon. Hence, most of the blue lights are scattered away and only the red light which gets least scattered reaches us. Therefore, the colour of the Sun is red at sunrise and sunset."
-"When does Mie scattering take place?","Mie scattering takes place when the diameter of the scatterer is similar to or larger than the wavelength of the incident light."
-"What are the causes of Mie scattering?","Mie scattering is caused by pollen, dust, smoke, water droplets, and other particles in the lower portion of the atmosphere."
-"Ramu passes white light through a quartz prism. For which colour refractive index is greater?","Refractive index is maximum for violet light when white light passes through a quartz prism."
-"Sita has kept a stud consists of diamond. What will she observe? Give reason.","The diamond stud appears bright because of total internal reflection."
-"Guna passes a ray light through a glass slab. Which optical phenomenon will take place? What can he observe with reference to wavelength?","When a ray of light enters a glass slab he can observe refraction of light. He observed that wavelength of light decreases."
+4. Raman scattering",Short Answer
+"What is Rayleigh scattering?","The scattering of sunlight by the atoms or molecules of the gases in the earth's atmosphere is known as Rayleigh scattering.",Short Answer
+"Why the colour of the Sun is red at sunrise and sunset?","At sunrise and sunset, the light rays from the Sun have to travel a larger distance in the atmosphere than at noon. Hence, most of the blue lights are scattered away and only the red light which gets least scattered reaches us. Therefore, the colour of the Sun is red at sunrise and sunset.",Short Answer
+"When does Mie scattering take place?","Mie scattering takes place when the diameter of the scatterer is similar to or larger than the wavelength of the incident light.",Short Answer
+"What are the causes of Mie scattering?","Mie scattering is caused by pollen, dust, smoke, water droplets, and other particles in the lower portion of the atmosphere.",Short Answer
+"Ramu passes white light through a quartz prism. For which colour refractive index is greater?","Refractive index is maximum for violet light when white light passes through a quartz prism.",Short Answer
+"Sita has kept a stud consists of diamond. What will she observe? Give reason.","The diamond stud appears bright because of total internal reflection.",Short Answer
+"Guna passes a ray light through a glass slab. Which optical phenomenon will take place? What can he observe with reference to wavelength?","When a ray of light enters a glass slab he can observe refraction of light. He observed that wavelength of light decreases.",Short Answer
 "A prism is placed in the minimum deviation position. Chari has passed a ray of light at an angle of 45°, then what is the value of angle of emergence? Why?","The angle of emergence = 45°.
-Since, in the minimum deviation positron, angle of incidence is equal to angle of emergence."
+Since, in the minimum deviation positron, angle of incidence is equal to angle of emergence.",Short Answer
 "Mani is using a lens of power 2 dioptre. What is the focal length of the lens?","Focal length = 1/power
-F= 1/2 = 0.5 m"
-"Surya has placed a lens of power 1 D in side water. What will happen to power of the lens?","The power of the lens will be more than original power."
-"Sonu has observed some lines in solar spectrum are absorbed by the elements present in the atmosphere. What are the lines?","The lines are Fraunhofer lines."
+F= 1/2 = 0.5 m",Numerical Problem
+"Surya has placed a lens of power 1 D in side water. What will happen to power of the lens?","The power of the lens will be more than original power.",Short Answer
+"Sonu has observed some lines in solar spectrum are absorbed by the elements present in the atmosphere. What are the lines?","The lines are Fraunhofer lines.",Short Answer
+"An object is placed at a distance 20 cm from a convex lens of focal length 10 cm. Find the image distance and nature of the image.","Distance of an object u = 20 cm
+Focal length of a convex lens f = 10 cm
+Let the image distance be v
+We know
+1/f = 1/u + 1/v
+1/10 = 1/20 + 1/v
+1/v = 1/10 - 1/20
+1/v = 2/20 - 1/20
+1/v = 1/20
+v = 20 cm
+Magnification m = v/u = 20/20 = 1
+Hence a real image of same size is formed at 20 cm.
+Image distance = 20 cm",Numerical Problem
+"An object of height 3 cm is placed at 10 cm from a concave lens of focal length 15 cm. Find the size of the image.","Object distance u = 10 cm
+Focal length of a concave lens f= -15 cm
+Let v be the image distance,
+1/f = 1/u + 1/v
+1/-15 = 1/10 + 1/v
+1/v = 1/-15 - 1/10
+1/v = -1/15 - 1/10
+1/v = -1/15 - 3/30
+1/v = -1/15 - 3/30
+1/v = -2/30 - 3/30
+1/v = -5/30
+v = -30/5 = -6 cm
+Distance of image v = 6 cm
+Magnification m = v/u = 6/10 = 0.6
+And Magnification m = h'/h
+Where h' – height of image
+h – height of object
+0.6 = h'/3
+∴ h' = 3 × 0.6 = 1.8 cm
+∴ Height of image = 1.8 cm",Numerical Problem
+"While doing an experiment for the determination of focal length of a convex lens, Raja Suddenly dropped the lens. It got broken into two halves along the axis. If he continues his experiment with the same lens,
+(a) can he get the image?
+(b) Is there any change in the focal length?","(a) He can get the image.
+(b) The focal length of the lens will be doubled.",Short Answer
+"The eyes of the nocturnal birds like owl are having a large cornea and a large pupil. How does it help them?","* The large pupil opens wider and allows the maximum amount of light to enter the eye in the dark.
+* Their lens is large and situated near the retina. This also allows a lot of light to register on the retina. The retina contains 2 types of light-sensing cells rods and cones.
+* Cones are responsible for the coloured vision and require bright, focused light.
+* Rods are extremely sensitive to light and have a photosensitive pigment called rhodopsin which plays a vital role in night vision.",Short Answer
+"The scattering of sun light by the atoms or molecules of the gases in the Earth's atmosphere is known as:
+(a) Mie scattering
+(b) Tyndall scattering
+(c) Rayleigh scattering
+(d) Raman scattering","(c) Rayleigh scattering",MCQ
+"Mie scattering is responsible for the _______ appearance of the clouds.
+(a) red
+(b) blue
+(c) colourless
+(d) white.","(d) white",MCQ
+"In an inelastic scattering the energy of the incident beam of light is ……….. that of scattering beam.
+(a) greater than
+(b) less than
+(c) equal to
+(d) different from","(d) different from",MCQ
+"As per Rayleigh's scattering law, amount of scattering is:
+(a) directly proportioanl to fourth power of wavelength
+(b) inversely proportioanl to fourth power of wavelength
+(c) inversely proportioanl to square of wavelength
+(d) directly proportional to square of wavelength","(b) inversely proportioanl to fourth power of wavelength",MCQ
+"The refractive index of a medium is dependent on the _______ of the light.
+(a) wavelength
+(b) strength
+(c) density
+(d) refraction.","(a) wavelength",MCQ
+"The scattering of light by colloidal particles in the colloidal solution is called:
+(a) Raman scattering
+(b) Tyndall scattering
+(c) Mie scattering
+(d) Elastic scattering","(b) Tyndall scattering",MCQ
+"A piece of transparent material bounded by curved surfaces is called:
+(a) mirror
+(b) prism
+(c) slab
+(d) lens","(d) lens",MCQ
+"If the energy of the incident and the scattered beam of light are not the same, then it is called as _______.
+(a) Elastic
+(b) Raman
+(c) Inelastic
+(d) Mie.","(c) Inelastic",MCQ
+"A convex lens does not produce:
+(a) real magnified image
+(b) virtual magnified image
+(c) virtual diminished image
+(d) real diminished image","(c) virtual diminished image",MCQ
+"A lens which is thicker in the middle than at the edges is known as:
+(a) concave lens
+(b) convex lens
+(c) bifocal lens
+(d) cylindrical lens","(b) convex lens",MCQ
+"Explain the construction and working of a 'Compound Microscope'.","Construction: A compound microscope consists of two convex lenses. The lens with the shorter focal length is placed near the object, and is called as 'objective lens' or 'objective piece'. The lens with larger focal length and larger aperture placed near the observer's eye is called as 'eye lens' or 'eye piece'. Both the lenses are fixed in a narrow tube with adjustable provision.
+
+Working: The object (AB) is placed at a distance slightly greater than the focal length of objective lens (u > F0). A real, inverted and magnified image (A'B') is formed at the other side of the objective lens. This image behaves as the object for the eye lens. The position of the eye lens is adjusted in such a way, that the image (B'B') falls within the principal focus of the eye piece. This eye piece forms a virtual, enlarged and erect image (A\"B\") on the same side of the object.
+
+Compound microscope has 50 to 200 times more magnification power than simple microscope.",Short Answer
